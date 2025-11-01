@@ -1,0 +1,11 @@
+# IntelliJ IDEA / JetBrains
+/.idea/
+/*.iml
+*.iws
+*.ipr
+/out/
+/build/
+/.gradle/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/shelf/
