@@ -10,6 +10,7 @@ Here's a reorganized structure of your interview prep resources:
 7. https://igotanoffer.com/blogs/tech/system-design-interviews
 8. https://github.com/ashishps1/awesome-system-design-resources
 9. https://www.youtube.com/playlist?list=PL564gOx0bCLouDCUMtmj6hMEu1JS7QYEr
+10. https://courses.algocamp.io/learn/home/Advanced-System-Design-2025/section/660609/lesson/4132127?
 
 ## **Low-Level Design (LLD) / Design Patterns**
 1. https://algomaster.io/learn/lld
