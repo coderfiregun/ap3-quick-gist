@@ -1,0 +1,13 @@
+
+1. [1700](https://codeforces.com/problemset?tags=1700-1700)
+2. [1800](https://codeforces.com/problemset?tags=1800-1800)
+3. [1900](https://codeforces.com/problemset?tags=1900-1900)
+4. [2000](https://codeforces.com/problemset?tags=2000-2000)
+5. [2100](https://codeforces.com/problemset?tags=2100-2100)
+6. [2200](https://codeforces.com/problemset?tags=2200-2200)
+7. [2300](https://codeforces.com/problemset?tags=2300-2300)
+8. [2400](https://codeforces.com/problemset?tags=2400-2400)
+9. [2500](https://codeforces.com/problemset?tags=2500-2500)
+10. [2600](https://codeforces.com/problemset?tags=2600-2600)
+11. [2700](https://codeforces.com/problemset?tags=2700-2700)
+12. [2800](https://codeforces.com/problemset?tags=2800-2800)
