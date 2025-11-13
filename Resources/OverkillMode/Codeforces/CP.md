@@ -11,3 +11,8 @@
 10. [2600](https://codeforces.com/problemset?tags=2600-2600)
 11. [2700](https://codeforces.com/problemset?tags=2700-2700)
 12. [2800](https://codeforces.com/problemset?tags=2800-2800)
+
+
+---
+
+https://www.tle-eliminators.com/cp-sheet
