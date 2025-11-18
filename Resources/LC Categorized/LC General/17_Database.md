@@ -1,0 +1,157 @@
+# Database - LeetCode Non-Premium
+
+## Basic Queries
+- **175. Combine Two Tables** (78.7% | Easy) - Combine tables
+- **176. Second Highest Salary** (45.5% | Med.) - Second highest
+- **177. Nth Highest Salary** (38.6% | Med.) - Nth highest
+- **178. Rank Scores** (66.4% | Med.) - Rank scores
+- **181. Employees Earning More Than Their Managers** (72.3% | Easy) - Earning more
+- **182. Duplicate Emails** (73.0% | Easy) - Duplicate emails
+- **183. Customers Who Never Order** (71.2% | Easy) - Never order
+- **196. Delete Duplicate Emails** (65.2% | Easy) - Delete duplicates
+- **197. Rising Temperature** (50.8% | Easy) - Rising temperature
+- **511. Game Play Analysis I** (76.1% | Easy) - Game play I
+- **512. Game Play Analysis II** (Med.) - Game play II
+- **550. Game Play Analysis IV** (40.3% | Med.) - Game play IV
+- **569. Median Employee Salary** (66.0% | Hard) - Median salary
+- **570. Managers with at Least 5 Direct Reports** (48.9% | Med.) - Managers reports
+- **574. Winning Candidate** (Med.) - Winning candidate
+- **577. Employee Bonus** (76.9% | Easy) - Employee bonus
+- **578. Get Highest Answer Rate Question** (40.1% | Med.) - Highest answer rate
+- **580. Count Student Number in Departments** (Med.) - Count students
+- **584. Find Customer Referee** (72.2% | Easy) - Find referee
+- **585. Investments in 2016** (50.6% | Med.) - Investments
+- **586. Customer Placing the Largest Number of Orders** (64.0% | Easy) - Largest orders
+- **595. Big Countries** (68.3% | Easy) - Big countries
+- **596. Classes With at Least 5 Students** (62.3% | Easy) - Classes students
+- **597. Friend Requests I: Overall Acceptance Rate** (41.2% | Easy) - Friend requests I
+- **601. Human Traffic of Stadium** (50.2% | Hard) - Human traffic
+- **602. Friend Requests II: Who Has the Most Friends** (61.9% | Med.) - Friend requests II
+- **607. Sales Person** (65.9% | Easy) - Sales person
+- **608. Tree Node** (74.6% | Med.) - Tree node
+- **610. Triangle Judgement** (74.3% | Easy) - Triangle judgement
+- **613. Shortest Distance in a Line** (Med.) - Shortest distance
+- **614. Second Degree Follower** (40.5% | Med.) - Second degree
+- **619. Biggest Single Number** (70.5% | Easy) - Biggest single
+- **620. Not Boring Movies** (75.1% | Easy) - Not boring
+- **626. Exchange Seats** (73.5% | Med.) - Exchange seats
+- **627. Swap Sex of Employees** (84.3% | Easy) - Swap sex
+- **1045. Customers Who Bought All Products** (63.4% | Med.) - Bought all
+- **1050. Actors and Directors Who Cooperated At Least Three Times** (Med.) - Cooperated
+- **1068. Product Sales Analysis I** (85.3% | Easy) - Product sales I
+- **1069. Product Sales Analysis II** (Med.) - Product sales II
+- **1070. Product Sales Analysis III** (45.2% | Med.) - Product sales III
+- **1076. Project Employees II** (50.3% | Easy) - Project employees II
+- **1077. Project Employees III** (77.1% | Med.) - Project employees III
+- **1082. Sales Analysis I** (Med.) - Sales analysis I
+- **1083. Sales Analysis II** (Med.) - Sales analysis II
+- **1084. Sales Analysis III** (Med.) - Sales analysis III
+- **1097. Game Play Analysis V** (Med.) - Game play V
+- **1098. Unpopular Books** (Med.) - Unpopular books
+- **1107. New Users Daily Count** (45.0% | Med.) - New users
+- **1112. Highest Grade For Each Student** (71.2% | Med.) - Highest grade
+- **1113. Reported Posts** (64.9% | Easy) - Reported posts
+- **1126. Active Businesses** (Med.) - Active businesses
+- **1127. User Purchase Platform** (46.6% | Hard) - User platform
+- **1132. Reported Posts II** (32.1% | Med.) - Reported posts II
+- **1141. User Activity for the Past 30 Days I** (50.0% | Easy) - User activity I
+- **1142. User Activity for the Past 30 Days II** (35.6% | Easy) - User activity II
+- **1148. Article Views I** (76.9% | Easy) - Article views I
+- **1149. Article Views II** (47.2% | Med.) - Article views II
+- **1158. Market Analysis I** (57.1% | Med.) - Market analysis I
+- **1159. Market Analysis II** (Med.) - Market analysis II
+- **1164. Product Price at a Given Date** (57.7% | Med.) - Product price
+- **1173. Immediate Food Delivery I** (80.7% | Easy) - Immediate delivery I
+- **1174. Immediate Food Delivery II** (55.3% | Med.) - Immediate delivery II
+- **1179. Reformat Department Table** (76.4% | Easy) - Reformat table
+- **1193. Monthly Transactions I** (58.6% | Med.) - Monthly transactions I
+- **1194. Tournament Winners** (Med.) - Tournament winners
+- **1204. Last Person to Fit in the Bus** (68.8% | Med.) - Last person
+- **1205. Monthly Transactions II** (Med.) - Monthly transactions II
+- **1211. Queries Quality and Percentage** (51.1% | Easy) - Queries quality
+- **1212. Team Scores in Football Tournament** (Med.) - Team scores
+- **1241. Number of Comments per Post** (65.8% | Easy) - Comments per post
+- **1251. Average Selling Price** (37.0% | Easy) - Average price
+- **1264. Page Recommendations** (65.4% | Med.) - Page recommendations
+- **1270. All People Report to the Given Manager** (84.2% | Med.) - Report to manager
+- **1280. Students and Examinations** (60.7% | Easy) - Students examinations
+- **1285. Find the Start and End Number of Continuous Ranges** (Med.) - Continuous ranges
+- **1294. Weather Type in Each Country** (Med.) - Weather type
+- **1303. Find the Team Size** (Med.) - Team size
+- **1321. Restaurant Growth** (57.7% | Med.) - Restaurant growth
+- **1322. Ads Performance** (58.8% | Easy) - Ads performance
+- **1327. List the Products Ordered in a Period** (Med.) - Products ordered
+- **1336. Number of Transactions per Visit** (Med.) - Transactions per visit
+- **1341. Movie Rating** (42.1% | Med.) - Movie rating
+- **1350. Students With Invalid Departments** (Med.) - Invalid departments
+- **1355. Activity Participants** (Med.) - Activity participants
+- **1364. Number of Trusted Contacts of a Customer** (Med.) - Trusted contacts
+- **1369. Get the Second Most Recent Activity** (Med.) - Second most recent
+- **1378. Replace Employee ID With The Unique Identifier** (83.5% | Easy) - Replace ID
+- **1384. Total Sales Amount by Year** (Med.) - Sales by year
+- **1393. Capital Gain/Loss** (Med.) - Capital gain loss
+- **1398. Customers Who Bought Products A and B but Not C** (71.7% | Med.) - Bought A B not C
+- **1407. Top Travellers** (57.1% | Easy) - Top travellers
+- **1412. Find the Quiet Students in All Exams** (Med.) - Quiet students
+- **1421. NPV Queries** (Med.) - NPV queries
+- **1435. Create a Session Bar Chart** (Med.) - Session bar chart
+- **1440. Evaluate Boolean Expression** (Med.) - Boolean expression
+- **1445. Apples & Oranges** (86.0% | Med.) - Apples oranges
+- **1454. Active Users** (Med.) - Active users
+- **1459. Rectangles Area** (Med.) - Rectangles area
+- **1468. Calculate Salaries** (Med.) - Calculate salaries
+- **1479. Sales by Day of the Week** (Med.) - Sales by day
+- **1484. Group Sold Products By The Date** (77.9% | Easy) - Group sold
+- **1495. Friendly Movies Streamed Last Month** (Med.) - Friendly movies
+- **1501. Countries You Can Safely Invest In** (Med.) - Countries invest
+- **1511. Customer Order Frequency** (Med.) - Order frequency
+- **1517. Find Users With Valid E-Mails** (38.1% | Easy) - Valid emails
+- **1527. Patients With a Condition** (38.8% | Easy) - Patients condition
+- **1532. The Most Recent Three Orders** (Med.) - Recent three orders
+- **1543. Fix Product Name Format** (Med.) - Fix product name
+- **1549. The Most Recent Orders for Each Product** (Med.) - Recent orders
+- **1555. Bank Account Summary** (Med.) - Bank account
+- **1565. Unique Orders and Customers Per Month** (Med.) - Unique orders
+- **1571. Warehouse Manager** (Med.) - Warehouse manager
+- **1581. Customer Who Visited but Did Not Make Any Transactions** (67.6% | Easy) - Visited no transactions
+- **1587. Bank Account Summary II** (83.1% | Easy) - Bank account II
+- **1607. Sellers With No Sales** (54.3% | Easy) - Sellers no sales
+- **1613. Find the Missing IDs** (Med.) - Missing IDs
+- **1623. All Valid Triplets That Can Represent a Country** (Med.) - Valid triplets
+- **1633. Percentage of Users Attended a Contest** (59.7% | Easy) - Percentage attended
+- **1661. Average Time of Process per Machine** (67.4% | Easy) - Average time
+- **1667. Fix Names in a Table** (60.7% | Easy) - Fix names
+- **1683. Invalid Tweets** (85.3% | Easy) - Invalid tweets
+- **1693. Daily Leads and Partners** (Med.) - Daily leads
+- **1699. Number of Calls Between Two Persons** (80.8% | Med.) - Calls between
+- **1709. Biggest Window Between Visits** (Med.) - Biggest window
+- **1715. Count Apples and Oranges** (Med.) - Count apples oranges
+- **1729. Find Followers Count** (69.5% | Easy) - Followers count
+- **1731. The Number of Employees Which Report to Each Employee** (52.8% | Easy) - Employees report
+- **1741. Find Total Time Spent by Each Employee** (86.6% | Easy) - Total time
+- **1747. Leetflex Banned Accounts** (Med.) - Banned accounts
+- **1757. Recyclable and Low Fat Products** (88.9% | Easy) - Recyclable low fat
+- **1789. Primary Department for Each Employee** (73.3% | Easy) - Primary department
+- **1795. Rearrange Products Table** (Med.) - Rearrange products
+- **1873. Calculate Special Bonus** (57.1% | Easy) - Special bonus
+- **1890. The Latest Login in 2020** (77.2% | Easy) - Latest login
+- **1907. Count Salary Categories** (63.6% | Med.) - Count salary
+- **1934. Confirmation Rate** (61.5% | Med.) - Confirmation rate
+- **1939. Users That Actively Request Confirmation Messages** (Med.) - Request confirmation
+- **1949. Strong Friendship** (54.2% | Med.) - Strong friendship
+- **1951. All the Pairs With the Maximum Number of Common Followers** (Med.) - Common followers
+- **1978. Employees Whose Manager Left the Company** (48.8% | Easy) - Manager left
+- **2199. Finding the Topic of Each Post** (50.1% | Hard) - Topic of post
+- **2356. Number of Unique Subjects Taught by Each Teacher** (89.3% | Easy) - Unique subjects
+- **262. Trips and Users** (37.2% | Hard) - Trips users
+- **185. Department Highest Salary** (56.4% | Med.) - Department highest
+- **184. Department Top Three Salaries** (59.1% | Hard) - Department top three
+- **262. Trips and Users** (37.2% | Hard) - Trips users
+- **185. Department Highest Salary** (56.4% | Med.) - Department highest
+- **184. Department Top Three Salaries** (59.1% | Hard) - Department top three
+
+---
+
+**Total Problems**: 100+  
+**Last Updated**: 2025-01-27
+

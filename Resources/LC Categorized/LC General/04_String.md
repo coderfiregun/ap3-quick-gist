@@ -1,0 +1,241 @@
+# String - LeetCode Non-Premium
+
+## String Basics
+- **3. Longest Substring Without Repeating Characters** (37.9% | Med.) - Longest substring
+- **14. Longest Common Prefix** (46.5% | Easy) - Common prefix
+- **20. Valid Parentheses** (43.2% | Easy) - Valid parentheses
+- **22. Generate Parentheses** (77.9% | Med.) - Generate parentheses
+- **32. Longest Valid Parentheses** (37.4% | Hard) - Longest valid
+- **125. Valid Palindrome** (52.1% | Easy) - Palindrome
+- **680. Valid Palindrome II** (43.7% | Easy) - Palindrome with delete
+- **344. Reverse String** (80.2% | Easy) - Reverse
+- **541. Reverse String II** (52.9% | Easy) - Reverse II
+- **151. Reverse Words in a String** (54.3% | Med.) - Reverse words
+- **557. Reverse Words in a String III** (83.8% | Easy) - Reverse words III
+- **186. Reverse Words in a String II** (56.4% | Med.) - Reverse words II
+- **58. Length of Last Word** (57.6% | Easy) - Last word length
+- **434. Number of Segments in a String** (36.8% | Easy) - Count segments
+- **28. Find the Index of the First Occurrence in a String** (45.8% | Easy) - First occurrence
+- **459. Repeated Substring Pattern** (47.4% | Easy) - Repeated pattern
+- **686. Repeated String Match** (37.8% | Med.) - Repeated match
+- **796. Rotate String** (64.7% | Easy) - Rotate
+- **796. Rotate String** (64.7% | Easy) - Rotate
+
+## String Matching / Pattern
+- **10. Regular Expression Matching** (30.0% | Hard) - Regex matching
+- **44. Wildcard Matching** (30.9% | Hard) - Wildcard matching
+- **72. Edit Distance** (59.7% | Med.) - Edit distance
+- **161. One Edit Distance** (34.5% | Med.) - One edit
+- **97. Interleaving String** (43.0% | Med.) - Interleaving
+- **87. Scramble String** (43.3% | Hard) - Scramble
+- **115. Distinct Subsequences** (51.0% | Hard) - Distinct subsequences
+- **940. Distinct Subsequences II** (43.9% | Hard) - Distinct subsequences II
+- **1987. Number of Unique Good Subsequences** (52.5% | Hard) - Good subsequences
+- **139. Word Break** (48.8% | Med.) - Word break
+- **140. Word Break II** (54.6% | Hard) - Word break II
+- **472. Concatenated Words** (Hard) - Concatenated words
+- **1048. Longest String Chain** (62.6% | Med.) - String chain
+- **2405. Optimal Partition of String** (78.3% | Med.) - Optimal partition
+- **2466. Count Ways To Build Good Strings** (59.0% | Med.) - Good strings
+
+## Palindrome
+- **5. Longest Palindromic Substring** (36.8% | Med.) - Longest palindrome
+- **516. Longest Palindromic Subsequence** (64.8% | Med.) - Longest subsequence
+- **647. Palindromic Substrings** (72.3% | Med.) - Count palindromes
+- **1312. Minimum Insertion Steps to Make a String Palindrome** (73.3% | Hard) - Make palindrome
+- **730. Count Different Palindromic Subsequences** (47.2% | Hard) - Count palindromes
+- **1316. Distinct Echo Substrings** (52.6% | Hard) - Echo substrings
+- **1044. Longest Duplicate Substring** (31.0% | Hard) - Longest duplicate
+- **1147. Longest Chunked Palindrome Decomposition** (59.0% | Hard) - Chunked palindrome
+- **2472. Maximum Number of Non-overlapping Palindrome Substrings** (42.6% | Hard) - Non-overlapping
+- **2484. Count Palindromic Subsequences** (40.4% | Hard) - Count subsequences
+- **3472. Longest Palindromic Subsequence After at Most K Operations** (37.1% | Med.) - With operations
+- **125. Valid Palindrome** (52.1% | Easy) - Valid
+- **680. Valid Palindrome II** (43.7% | Easy) - Valid with delete
+- **1216. Valid Palindrome III** (49.1% | Hard) - Valid III
+- **266. Palindrome Permutation** (68.6% | Easy) - Permutation
+- **267. Palindrome Permutation II** (42.2% | Med.) - Permutation II
+- **131. Palindrome Partitioning** (73.2% | Med.) - Partitioning
+- **132. Palindrome Partitioning II** (36.1% | Hard) - Partitioning II
+- **2108. Find First Palindromic String in the Array** (84.0% | Easy) - First palindrome
+- **2697. Lexicographically Smallest Palindrome** (80.5% | Easy) - Smallest palindrome
+- **2264. Largest 3-Same-Digit Number in String** (72.7% | Easy) - Largest 3-digit
+- **2396. Strictly Palindromic Number** (89.8% | Med.) - Strictly palindromic
+
+## String Manipulation
+- **8. String to Integer (atoi)** (20.1% | Med.) - Atoi
+- **12. Integer to Roman** (69.8% | Med.) - Integer to Roman
+- **13. Roman to Integer** (65.8% | Easy) - Roman to Integer
+- **273. Integer to English Words** (34.7% | Hard) - Integer to words
+- **67. Add Binary** (56.4% | Easy) - Add binary
+- **415. Add Strings** (52.0% | Easy) - Add strings
+- **43. Multiply Strings** (43.1% | Med.) - Multiply
+- **29. Divide Two Integers** (19.0% | Med.) - Divide
+- **50. Pow(x, n)** (37.9% | Med.) - Power
+- **69. Sqrt(x)** (41.0% | Easy) - Square root
+- **168. Excel Sheet Column Title** (44.9% | Easy) - Column title
+- **171. Excel Sheet Column Number** (66.7% | Easy) - Column number
+- **405. Convert a Number to Hexadecimal** (52.3% | Easy) - To hex
+- **504. Base 7** (53.2% | Easy) - Base 7
+- **1017. Convert to Base -2** (61.6% | Med.) - Base -2
+- **1009. Complement of Base 10 Integer** (60.7% | Easy) - Complement
+- **476. Number Complement** (70.4% | Easy) - Number complement
+- **1903. Largest Odd Number in String** (66.4% | Easy) - Largest odd
+- **1323. Maximum 69 Number** (84.5% | Easy) - Maximum 69
+- **2566. Maximum Difference by Remapping a Digit** (76.1% | Easy) - Remap digit
+- **2578. Split With Minimum Sum** (72.9% | Easy) - Split sum
+- **2160. Minimum Sum of Four Digit Number After Splitting Digits** (86.2% | Easy) - Split digits
+- **2165. Smallest Value of the Rearranged Number** (53.2% | Med.) - Smallest value
+- **2231. Largest Number After Digit Swaps by Parity** (64.5% | Easy) - Digit swaps
+- **2442. Count Number of Distinct Integers After Reverse Operations** (80.9% | Med.) - Reverse integers
+- **2520. Count the Digits That Divide a Number** (85.9% | Easy) - Count digits
+- **2553. Separate the Digits in an Array** (80.6% | Easy) - Separate digits
+- **2575. Find the Divisibility Array of a String** (35.3% | Med.) - Divisibility array
+- **2716. Minimize String Length** (78.3% | Easy) - Minimize length
+- **2785. Sort Vowels in a String** (83.4% | Med.) - Sort vowels
+- **2788. Split Strings by Separator** (75.7% | Easy) - Split by separator
+- **2843. Count Symmetric Integers** (83.1% | Easy) - Symmetric integers
+- **2864. Maximum Odd Binary Number** (82.8% | Easy) - Maximum odd binary
+- **3110. Score of a String** (91.5% | Easy) - String score
+- **3146. Permutation Difference between Two Strings** (87.5% | Easy) - Permutation diff
+- **3174. Clear Digits** (82.6% | Easy) - Clear digits
+- **3211. Generate Binary Strings Without Adjacent Zeros** (87.9% | Med.) - Binary strings
+- **3227. Vowels Game in a String** (77.0% | Med.) - Vowels game
+- **3228. Maximum Number of Operations to Move Ones to the End** (67.1% | Med.) - Move ones
+- **3271. Hash Divided String** (83.1% | Med.) - Hash divided
+- **3304. Find the K-th Character in String Game I** (81.7% | Easy) - Kth character I
+- **3307. Find the K-th Character in String Game II** (48.6% | Hard) - Kth character II
+- **3309. Maximum Possible Number by Binary Concatenation** (65.2% | Med.) - Binary concatenation
+- **3361. Shift Distance Between Two Strings** (53.1% | Med.) - Shift distance
+- **3379. Transformed Array** (57.2% | Easy) - Transformed array
+- **3412. Find Mirror Score of a String** (34.8% | Med.) - Mirror score
+- **3461. Check If Digits Are Equal in String After Operations I** (82.5% | Easy) - Equal digits I
+- **3463. Check If Digits Are Equal in String After Operations II** (13.7% | Hard) - Equal digits II
+- **3481. Apply Substitutions** (77.6% | Med.) - Apply substitutions
+- **3503. Longest Palindrome After Substring Concatenation I** (43.4% | Med.) - Palindrome concatenation I
+- **3504. Longest Palindrome After Substring Concatenation II** (16.6% | Hard) - Palindrome concatenation II
+- **3533. Concatenated Divisibility** (30.0% | Hard) - Concatenated divisibility
+- **3551. Minimum Swaps to Sort by Digit Sum** (50.3% | Med.) - Sort by digit sum
+- **3561. Resulting String After Adjacent Removals** (56.1% | Med.) - Adjacent removals
+- **3597. Partition String** (58.1% | Med.) - Partition
+- **3646. Next Special Palindrome Number** (25.0% | Hard) - Special palindrome
+- **3688. Bitwise OR of Even Numbers in an Array** (81.6% | Easy) - Bitwise OR even
+
+## Anagram / Permutation
+- **242. Valid Anagram** (67.4% | Easy) - Valid anagram
+- **49. Group Anagrams** (71.7% | Med.) - Group anagrams
+- **438. Find All Anagrams in a String** (52.8% | Med.) - Find anagrams
+- **567. Permutation in String** (48.0% | Med.) - Permutation in string
+- **31. Next Permutation** (44.2% | Med.) - Next permutation
+- **46. Permutations** (81.3% | Med.) - Permutations
+- **47. Permutations II** (62.5% | Med.) - Permutations II
+- **60. Permutation Sequence** (51.2% | Hard) - Permutation sequence
+- **266. Palindrome Permutation** (68.6% | Easy) - Palindrome permutation
+- **267. Palindrome Permutation II** (42.2% | Med.) - Palindrome permutation II
+- **1079. Letter Tile Possibilities** (83.5% | Med.) - Tile possibilities
+- **784. Letter Case Permutation** (75.5% | Med.) - Case permutation
+- **1081. Smallest Subsequence of Distinct Characters** (62.6% | Med.) - Smallest subsequence
+- **316. Remove Duplicate Letters** (52.2% | Med.) - Remove duplicates
+- **1202. Smallest String With Swaps** (60.1% | Med.) - Smallest with swaps
+- **1859. Sorting the Sentence** (84.0% | Easy) - Sort sentence
+- **2273. Find Resultant Array After Removing Anagrams** (69.8% | Easy) - Remove anagrams
+- **2287. Rearrange Characters to Make Target String** (60.7% | Easy) - Rearrange characters
+- **3146. Permutation Difference between Two Strings** (87.5% | Easy) - Permutation diff
+
+## String Encoding / Decoding
+- **271. Encode and Decode Strings** (50.6% | Med.) - Encode decode
+- **535. Encode and Decode TinyURL** (86.5% | Med.) - TinyURL
+- **443. String Compression** (59.1% | Med.) - Compression
+- **1531. String Compression II** (52.2% | Hard) - Compression II
+- **3163. String Compression III** (66.9% | Med.) - Compression III
+- **394. Decode String** (61.9% | Med.) - Decode
+- **91. Decode Ways** (37.2% | Med.) - Decode ways
+- **639. Decode Ways II** (31.5% | Hard) - Decode ways II
+- **1309. Decrypt String from Alphabet to Integer Mapping** (80.4% | Easy) - Decrypt
+- **2325. Decode the Message** (85.7% | Easy) - Decode message
+- **1410. HTML Entity Parser** (50.2% | Med.) - HTML parser
+- **1807. Evaluate the Bracket Pairs of a String** (68.8% | Med.) - Bracket pairs
+- **1108. Defanging an IP Address** (89.9% | Easy) - Defang IP
+- **1021. Remove Outermost Parentheses** (86.5% | Easy) - Remove outer
+- **1249. Minimum Remove to Make Valid Parentheses** (71.1% | Med.) - Remove to valid
+- **1541. Minimum Insertions to Balance a Parentheses String** (53.4% | Med.) - Balance parentheses
+- **1544. Make The String Great** (68.3% | Easy) - Make great
+- **1190. Reverse Substrings Between Each Pair of Parentheses** (71.9% | Med.) - Reverse substrings
+- **1111. Maximum Nesting Depth of Two Valid Parentheses Strings** (71.7% | Med.) - Nesting depth
+- **1614. Maximum Nesting Depth of the Parentheses** (84.6% | Easy) - Max nesting
+- **856. Score of Parentheses** (63.7% | Med.) - Score parentheses
+- **921. Minimum Add to Make Parentheses Valid** (74.5% | Med.) - Add to valid
+- **678. Valid Parenthesis String** (39.5% | Med.) - Valid with star
+- **2116. Check if a Parentheses String Can Be Valid** (45.0% | Med.) - Can be valid
+- **2267. Check if There Is a Valid Parentheses String Path** (39.8% | Hard) - Valid path
+- **3176. Find the Maximum Length of a Good Subsequence I** (32.2% | Med.) - Good subsequence I
+- **3177. Find the Maximum Length of a Good Subsequence II** (24.6% | Hard) - Good subsequence II
+- **3327. Check if DFS Strings Are Palindromes** (18.9% | Hard) - DFS palindromes
+
+## Sliding Window / Two Pointers
+- **3. Longest Substring Without Repeating Characters** (37.9% | Med.) - Longest substring
+- **76. Minimum Window Substring** (46.4% | Hard) - Minimum window
+- **209. Minimum Size Subarray Sum** (50.3% | Med.) - Minimum size
+- **424. Longest Repeating Character Replacement** (58.4% | Med.) - Character replacement
+- **438. Find All Anagrams in a String** (52.8% | Med.) - Find anagrams
+- **567. Permutation in String** (48.0% | Med.) - Permutation
+- **992. Subarrays with K Different Integers** (67.0% | Hard) - K different
+- **1004. Max Consecutive Ones III** (66.9% | Med.) - Max consecutive
+- **1055. Shortest Way to Form String** (61.4% | Med.) - Shortest way
+- **1208. Get Equal Substrings Within Budget** (59.3% | Med.) - Equal substrings
+- **1358. Number of Substrings Containing All Three Characters** (73.4% | Med.) - All three chars
+- **1456. Maximum Number of Vowels in a Substring of Given Length** (61.1% | Med.) - Max vowels
+- **1493. Longest Subarray of 1's After Deleting One Element** (70.9% | Med.) - Longest 1s
+- **1838. Frequency of the Most Frequent Element** (44.5% | Med.) - Most frequent
+- **2024. Maximize the Confusion of an Exam** (69.3% | Med.) - Maximize confusion
+- **2379. Minimum Recolors to Get K Consecutive Black Blocks** (68.5% | Easy) - Recolor blocks
+- **2401. Longest Nice Subarray** (64.8% | Med.) - Nice subarray
+- **2781. Length of the Longest Valid Substring** (38.1% | Hard) - Valid substring
+- **2958. Length of Longest Subarray With at Most K Frequency** (56.2% | Med.) - K frequency
+- **3085. Minimum Deletions to Make String K-Special** (67.2% | Med.) - K-special
+- **3097. Shortest Subarray With OR at Least K II** (50.2% | Med.) - OR at least K
+- **3201. Find the Maximum Length of Valid Subsequence I** (54.8% | Med.) - Valid subsequence I
+- **3202. Find the Maximum Length of Valid Subsequence II** (57.3% | Med.) - Valid subsequence II
+- **3316. Find Maximum Removals From Source String** (38.8% | Med.) - Max removals
+- **3325. Count Substrings With K-Frequency Characters I** (55.2% | Med.) - K-frequency I
+- **3335. Total Characters in String After Transformations I** (45.7% | Med.) - Transformations I
+- **3337. Total Characters in String After Transformations II** (58.1% | Hard) - Transformations II
+- **3398. Smallest Substring With Identical Characters I** (19.8% | Hard) - Identical chars I
+- **3403. Find the Lexicographically Largest String From the Box I** (40.9% | Med.) - Largest string I
+- **3404. Count Special Subsequences** (29.5% | Med.) - Special subsequences
+- **3434. Maximum Frequency After Subarray Operation** (30.1% | Med.) - Frequency after operation
+- **3452. Sum of Good Numbers** (69.3% | Easy) - Good numbers
+- **3477. Fruits Into Baskets II** (70.3% | Easy) - Fruits II
+- **3479. Fruits Into Baskets III** (39.0% | Med.) - Fruits III
+- **3480. Maximize Subarrays After Removing One Conflicting Pair** (64.8% | Hard) - Maximize subarrays
+- **3487. Zero Array Transformation IV** (30.6% | Med.) - Zero array IV
+- **3507. Minimum Pair Removal to Sort Array I** (55.6% | Easy) - Pair removal I
+- **3529. Count Cells in Overlapping Horizontal and Vertical Substrings** (26.1% | Med.) - Overlapping cells
+- **3545. Minimum Deletions for At Most K Distinct Characters** (72.8% | Easy) - K distinct
+- **3566. Partition Array into Two Equal Product Subsets** (35.0% | Med.) - Equal product
+- **3578. Count Partitions With Max-Min Difference at Most K** (37.1% | Med.) - Max-min diff
+- **3592. Inverse Coin Change** (50.8% | Med.) - Inverse coin
+- **3593. Minimum Increments to Equalize Leaf Paths** (40.8% | Med.) - Equalize paths
+- **3607. Power Grid Maintenance** (56.9% | Med.) - Power grid
+- **3613. Minimize Maximum Component Cost** (43.1% | Med.) - Component cost
+- **3619. Count Islands With Total Value Divisible by K** (56.3% | Med.) - Islands divisible
+- **3623. Count Number of Trapezoids I** (32.8% | Med.) - Trapezoids I
+- **3625. Count Number of Trapezoids II** (13.3% | Hard) - Trapezoids II
+- **3630. Partition Array for Maximum XOR and AND** (13.2% | Hard) - Max XOR AND
+- **3636. Threshold Majority Queries** (20.7% | Hard) - Threshold majority
+- **3645. Maximum Total from Optimal Activation Order** (32.5% | Med.) - Optimal activation
+- **3648. Minimum Sensors to Cover Grid** (68.6% | Med.) - Sensors
+- **3650. Minimum Cost Path with Edge Reversals** (46.8% | Med.) - Cost path
+- **3652. Best Time to Buy and Sell Stock using Strategy** (46.7% | Med.) - Stock strategy
+- **3659. Partition Array Into K-Distinct Groups** (43.4% | Med.) - K-distinct groups
+- **3665. Twisted Mirror Path Count** (47.8% | Med.) - Mirror path
+- **3669. Balanced K-Factor Decomposition** (34.4% | Med.) - K-factor
+- **3671. Sum of Beautiful Subsequences** (21.2% | Hard) - Beautiful subsequences
+- **3676. Count Bowl Subarrays** (43.8% | Med.) - Bowl subarrays
+- **3686. Number of Stable Subsequences** (55.7% | Hard) - Stable subsequences
+
+---
+
+**Total Problems**: 200+  
+**Last Updated**: 2025-01-27
+

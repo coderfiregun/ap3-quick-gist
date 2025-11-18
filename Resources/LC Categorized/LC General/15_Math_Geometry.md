@@ -1,0 +1,544 @@
+# Math & Geometry - LeetCode Non-Premium
+
+## Number Theory
+- **204. Count Primes** (35.5% | Med.) - Count primes
+- **263. Ugly Number** (42.8% | Easy) - Ugly number
+- **264. Ugly Number II** (49.4% | Med.) - Ugly number II
+- **313. Super Ugly Number** (45.7% | Med.) - Super ugly
+- **279. Perfect Squares** (56.1% | Med.) - Perfect squares
+- **367. Valid Perfect Square** (44.5% | Easy) - Perfect square
+- **507. Perfect Number** (46.9% | Easy) - Perfect number
+- **9. Palindrome Number** (59.9% | Easy) - Palindrome number
+- **7. Reverse Integer** (31.1% | Med.) - Reverse integer
+- **8. String to Integer (atoi)** (20.1% | Med.) - Atoi
+- **12. Integer to Roman** (69.8% | Med.) - Integer to Roman
+- **13. Roman to Integer** (65.8% | Easy) - Roman to integer
+- **273. Integer to English Words** (34.7% | Hard) - Integer to words
+- **67. Add Binary** (56.4% | Easy) - Add binary
+- **415. Add Strings** (52.0% | Easy) - Add strings
+- **43. Multiply Strings** (43.1% | Med.) - Multiply strings
+- **29. Divide Two Integers** (19.0% | Med.) - Divide integers
+- **50. Pow(x, n)** (37.9% | Med.) - Power
+- **69. Sqrt(x)** (41.0% | Easy) - Square root
+- **168. Excel Sheet Column Title** (44.9% | Easy) - Column title
+- **171. Excel Sheet Column Number** (66.7% | Easy) - Column number
+- **405. Convert a Number to Hexadecimal** (52.3% | Easy) - To hex
+- **504. Base 7** (53.2% | Easy) - Base 7
+- **1017. Convert to Base -2** (61.6% | Med.) - Base -2
+- **1009. Complement of Base 10 Integer** (60.7% | Easy) - Complement
+- **476. Number Complement** (70.4% | Easy) - Number complement
+- **1903. Largest Odd Number in String** (66.4% | Easy) - Largest odd
+- **1323. Maximum 69 Number** (84.5% | Easy) - Maximum 69
+- **2566. Maximum Difference by Remapping a Digit** (76.1% | Easy) - Remap digit
+- **2578. Split With Minimum Sum** (72.9% | Easy) - Split sum
+- **2160. Minimum Sum of Four Digit Number After Splitting Digits** (86.2% | Easy) - Split digits
+- **2165. Smallest Value of the Rearranged Number** (53.2% | Med.) - Smallest value
+- **2231. Largest Number After Digit Swaps by Parity** (64.5% | Easy) - Digit swaps
+- **2442. Count Number of Distinct Integers After Reverse Operations** (80.9% | Med.) - Reverse integers
+- **2520. Count the Digits That Divide a Number** (85.9% | Easy) - Count digits
+- **2553. Separate the Digits in an Array** (80.6% | Easy) - Separate digits
+- **2575. Find the Divisibility Array of a String** (35.3% | Med.) - Divisibility array
+- **2716. Minimize String Length** (78.3% | Easy) - Minimize length
+- **2785. Sort Vowels in a String** (83.4% | Med.) - Sort vowels
+- **2788. Split Strings by Separator** (75.7% | Easy) - Split by separator
+- **2843. Count Symmetric Integers** (83.1% | Easy) - Symmetric integers
+- **2864. Maximum Odd Binary Number** (82.8% | Easy) - Maximum odd binary
+- **3110. Score of a String** (91.5% | Easy) - String score
+- **3146. Permutation Difference between Two Strings** (87.5% | Easy) - Permutation diff
+- **3174. Clear Digits** (82.6% | Easy) - Clear digits
+- **3211. Generate Binary Strings Without Adjacent Zeros** (87.9% | Med.) - Binary strings
+- **3227. Vowels Game in a String** (77.0% | Med.) - Vowels game
+- **3228. Maximum Number of Operations to Move Ones to the End** (67.1% | Med.) - Move ones
+- **3271. Hash Divided String** (83.1% | Med.) - Hash divided
+- **3304. Find the K-th Character in String Game I** (81.7% | Easy) - Kth character I
+- **3307. Find the K-th Character in String Game II** (48.6% | Hard) - Kth character II
+- **3309. Maximum Possible Number by Binary Concatenation** (65.2% | Med.) - Binary concatenation
+- **3361. Shift Distance Between Two Strings** (53.1% | Med.) - Shift distance
+- **3379. Transformed Array** (57.2% | Easy) - Transformed array
+- **3412. Find Mirror Score of a String** (34.8% | Med.) - Mirror score
+- **3461. Check If Digits Are Equal in String After Operations I** (82.5% | Easy) - Equal digits I
+- **3463. Check If Digits Are Equal in String After Operations II** (13.7% | Hard) - Equal digits II
+- **3481. Apply Substitutions** (77.6% | Med.) - Apply substitutions
+- **3503. Longest Palindrome After Substring Concatenation I** (43.4% | Med.) - Palindrome concatenation I
+- **3504. Longest Palindrome After Substring Concatenation II** (16.6% | Hard) - Palindrome concatenation II
+- **3533. Concatenated Divisibility** (30.0% | Hard) - Concatenated divisibility
+- **3551. Minimum Swaps to Sort by Digit Sum** (50.3% | Med.) - Sort by digit sum
+- **3561. Resulting String After Adjacent Removals** (56.1% | Med.) - Adjacent removals
+- **3597. Partition String** (58.1% | Med.) - Partition
+- **3646. Next Special Palindrome Number** (25.0% | Hard) - Special palindrome
+- **3688. Bitwise OR of Even Numbers in an Array** (81.6% | Easy) - Bitwise OR even
+
+## Combinatorics
+- **118. Pascal's Triangle** (78.3% | Easy) - Pascal's triangle
+- **119. Pascal's Triangle II** (66.7% | Easy) - Pascal's triangle II
+- **62. Unique Paths** (66.3% | Med.) - Unique paths
+- **63. Unique Paths II** (43.8% | Med.) - Unique paths II
+- **96. Unique Binary Search Trees** (63.0% | Med.) - Unique BSTs
+- **95. Unique Binary Search Trees II** (61.4% | Med.) - All unique BSTs
+- **172. Factorial Trailing Zeroes** (45.7% | Med.) - Trailing zeroes
+- **233. Number of Digit One** (36.9% | Hard) - Digit one
+- **357. Count Numbers with Unique Digits** (55.0% | Med.) - Unique digits
+- **400. Nth Digit** (36.5% | Med.) - Nth digit
+- **441. Arranging Coins** (47.7% | Easy) - Arranging coins
+- **458. Poor Pigs** (59.1% | Hard) - Poor pigs
+- **1015. Smallest Integer Divisible by K** (46.7% | Med.) - Divisible by K
+- **1359. Count All Valid Pickup and Delivery Options** (64.9% | Hard) - Pickup delivery
+- **1692. Count Ways to Distribute Candies** (63.6% | Hard) - Distribute candies
+- **2184. Number of Ways to Build Sturdy Brick Wall** (49.4% | Med.) - Brick wall
+- **2189. Number of Ways to Build House of Cards** (62.5% | Med.) - House of cards
+- **2964. Number of Divisible Triplet Sums** (67.5% | Med.) - Divisible triplets
+
+## Geometry
+- **149. Max Points on a Line** (29.8% | Hard) - Max points on line
+- **223. Rectangle Area** (48.4% | Med.) - Rectangle area
+- **850. Rectangle Area II** (55.3% | Hard) - Rectangle area II
+- **836. Rectangle Overlap** (46.1% | Easy) - Rectangle overlap
+- **939. Minimum Area Rectangle** (55.2% | Med.) - Min area rectangle
+- **963. Minimum Area Rectangle II** (55.8% | Med.) - Min area rectangle II
+- **469. Convex Polygon** (40.1% | Med.) - Convex polygon
+- **587. Erect the Fence** (52.6% | Hard) - Erect fence
+- **1924. Erect the Fence II** (50.8% | Hard) - Erect fence II
+- **593. Valid Square** (44.6% | Med.) - Valid square
+- **812. Largest Triangle Area** (71.2% | Easy) - Largest triangle
+- **1515. Best Position for a Service Centre** (35.0% | Hard) - Service centre
+- **1453. Maximum Number of Darts Inside of a Circular Dartboard** (39.5% | Hard) - Darts in circle
+- **1610. Maximum Number of Visible Points** (37.8% | Hard) - Visible points
+- **2241. Design an ATM Machine** (44.0% | Med.) - ATM machine
+- **1344. Angle Between Hands of a Clock** (64.4% | Med.) - Clock angle
+- **858. Mirror Reflection** (61.9% | Med.) - Mirror reflection
+- **1401. Circle and Rectangle Overlapping** (49.3% | Med.) - Circle rectangle
+- **1637. Widest Vertical Area Between Two Points Containing No Points** (87.1% | Easy) - Widest vertical
+- **2280. Minimum Lines to Represent a Line Chart** (26.5% | Med.) - Minimum lines
+- **2345. Finding the Number of Visible Mountains** (36.7% | Med.) - Visible mountains
+- **3024. Type of Triangle** (44.3% | Easy) - Triangle type
+- **3047. Find the Largest Area of Square Inside Two Rectangles** (45.7% | Med.) - Largest square
+- **3000. Maximum Area of Longest Diagonal Rectangle** (45.8% | Easy) - Max area rectangle
+- **3588. Find Maximum Area of a Triangle** (28.4% | Med.) - Max area triangle
+
+## Probability
+- **688. Knight Probability in Chessboard** (56.8% | Med.) - Knight probability
+- **837. New 21 Game** (52.0% | Med.) - 21 game
+- **808. Soup Servings** (59.8% | Med.) - Soup servings
+- **1227. Airplane Seat Assignment Probability** (67.0% | Med.) - Seat probability
+- **1467. Probability of a Two Boxes Having The Same Number of Distinct Balls** (Hard) - Ball probability
+
+## Bit Manipulation (Math-related)
+- **136. Single Number** (76.9% | Easy) - Single number
+- **137. Single Number II** (66.2% | Med.) - Single number II
+- **260. Single Number III** (70.5% | Med.) - Single number III
+- **190. Reverse Bits** (65.0% | Easy) - Reverse bits
+- **191. Number of 1 Bits** (75.7% | Easy) - Number of 1 bits
+- **231. Power of Two** (49.6% | Easy) - Power of two
+- **326. Power of Three** (50.3% | Easy) - Power of three
+- **342. Power of Four** (51.4% | Easy) - Power of four
+- **201. Bitwise AND of Numbers Range** (48.4% | Med.) - Bitwise AND range
+- **338. Counting Bits** (80.2% | Easy) - Counting bits
+- **461. Hamming Distance** (76.4% | Easy) - Hamming distance
+- **477. Total Hamming Distance** (54.3% | Med.) - Total Hamming distance
+- **371. Sum of Two Integers** (54.6% | Med.) - Sum without +
+- **393. UTF-8 Validation** (45.8% | Med.) - UTF-8 validation
+- **401. Binary Watch** (57.6% | Easy) - Binary watch
+- **405. Convert a Number to Hexadecimal** (52.3% | Easy) - To hex
+- **476. Number Complement** (70.4% | Easy) - Number complement
+- **693. Binary Number with Alternating Bits** (63.8% | Easy) - Alternating bits
+- **762. Prime Number of Set Bits in Binary Representation** (Med.) - Prime set bits
+- **868. Binary Gap** (65.3% | Easy) - Binary gap
+- **1009. Complement of Base 10 Integer** (60.7% | Easy) - Complement
+- **1318. Minimum Flips to Make a OR b Equal to c** (Med.) - Min flips
+- **1342. Number of Steps to Reduce a Number to Zero** (85.7% | Easy) - Steps to zero
+- **1404. Number of Steps to Reduce a Number in Binary Representation to One** (61.3% | Med.) - Steps binary
+- **1486. XOR Operation in an Array** (87.2% | Easy) - XOR operation
+- **1720. Decode XORed Array** (Med.) - Decode XORed
+- **1734. Decode XORed Permutation** (Med.) - Decode XORed permutation
+- **1829. Maximum XOR for Each Query** (84.7% | Med.) - Max XOR query
+- **2429. Minimize XOR** (62.4% | Med.) - Minimize XOR
+- **2433. Find The Original Array of Prefix Xor** (88.2% | Med.) - Original prefix XOR
+- **2683. Neighboring Bitwise XOR** (79.8% | Med.) - Neighboring XOR
+- **2275. Largest Combination With Bitwise AND Greater Than Zero** (80.8% | Med.) - Largest combination
+- **2425. Bitwise XOR of All Pairings** (66.9% | Med.) - XOR pairings
+- **2997. Minimum Number of Operations to Make Array XOR Equal to K** (85.4% | Med.) - Array XOR equal K
+- **3158. Find the XOR of Numbers Which Appear Twice** (78.4% | Easy) - XOR appears twice
+- **2427. Number of Common Factors** (79.8% | Easy) - Common factors
+- **2521. Count the Number of Distinct Integers After Reverse Operations** (80.9% | Med.) - Distinct after reverse
+- **2595. Number of Even and Odd Bits** (73.1% | Easy) - Even odd bits
+- **2684. Maximum Number of Moves in a Grid** (58.8% | Med.) - Max moves grid
+- **2685. Count the Number of Complete Components** (77.6% | Med.) - Complete components
+- **2703. Return Length of Arguments Passed** (94.5% | Easy) - Arguments length
+- **2704. To Be Or Not To Be** (63.1% | Easy) - To be or not
+- **2706. Buy Two Chocolates** (68.3% | Easy) - Buy chocolates
+- **2707. Extra Characters in a String** (57.2% | Med.) - Extra characters
+- **2709. Greatest Common Divisor Traversal** (41.7% | Hard) - GCD traversal
+- **2713. Maximum Strictly Increasing Cells in a Matrix** (31.1% | Hard) - Max increasing cells
+- **2715. Timeout Cancellation** (89.5% | Easy) - Timeout cancellation
+- **2716. Minimize String Length** (78.3% | Easy) - Minimize length
+- **2722. Join Two Arrays by ID** (56.6% | Med.) - Join arrays
+- **2723. Add Two Promises** (91.7% | Easy) - Add promises
+- **2724. Sort By** (83.2% | Easy) - Sort by
+- **2726. Calculator with Method Chaining** (77.5% | Easy) - Calculator chaining
+- **2727. Is Object Empty** (81.6% | Easy) - Is empty
+- **2731. Movement of Robots** (27.5% | Med.) - Robot movement
+- **2739. Total Distance Traveled** (40.8% | Easy) - Total distance
+- **2742. Painting the Walls** (48.7% | Hard) - Painting walls
+- **2749. Minimum Operations to Make the Integer Zero** (58.2% | Med.) - Make integer zero
+- **2750. Ways to Split Array Into Good Subarrays** (34.5% | Med.) - Good subarrays
+- **2751. Robot Collisions** (56.1% | Hard) - Robot collisions
+- **2762. Continuous Subarrays** (58.0% | Med.) - Continuous subarrays
+- **2763. Sum of Imbalance Numbers of All Subarrays** (42.9% | Hard) - Imbalance numbers
+- **2767. Partition String Into Minimum Beautiful Substrings** (53.5% | Med.) - Beautiful substrings
+- **2768. Number of Black Blocks** (40.7% | Med.) - Black blocks
+- **2769. Find the Maximum Achievable Number** (91.0% | Easy) - Max achievable
+- **2771. Longest Non-decreasing Subarray From Two Arrays** (30.7% | Med.) - Non-decreasing subarray
+- **2772. Apply Operations to Make All Array Elements Equal to Zero** (33.0% | Med.) - Make equal zero
+- **2779. Maximum Beauty of an Array After Applying Operation** (58.2% | Med.) - Max beauty
+- **2780. Minimum Index of a Valid Split** (75.5% | Med.) - Valid split
+- **2781. Length of the Longest Valid Substring** (38.1% | Hard) - Longest valid substring
+- **2785. Sort Vowels in a String** (83.4% | Med.) - Sort vowels
+- **2787. Ways to Express an Integer as Sum of Powers** (49.9% | Med.) - Sum of powers
+- **2788. Split Strings by Separator** (75.7% | Easy) - Split by separator
+- **2799. Count Complete Subarrays in an Array** (75.9% | Med.) - Complete subarrays
+- **2800. Shortest String That Contains Three Strings** (31.2% | Med.) - Shortest string
+- **2807. Insert Greatest Common Divisors in Linked List** (91.4% | Med.) - Insert GCD
+- **2812. Find the Safest Path in a Grid** (48.5% | Med.) - Safest path
+- **2815. Max Pair Sum in an Array** (59.9% | Easy) - Max pair sum
+- **2816. Double a Number Represented as a Linked List** (61.2% | Med.) - Double number
+- **2817. Minimum Absolute Difference Between Elements With Constraint** (35.7% | Med.) - Min absolute diff
+- **2818. Apply Operations to Maximize Score** (53.8% | Hard) - Maximize score
+- **2824. Count Pairs Whose Sum is Less than Target** (87.7% | Easy) - Pairs sum less
+- **2828. Check if a String Is an Acronym of Words** (82.8% | Easy) - Is acronym
+- **2831. Find the Longest Equal Subarray** (37.1% | Med.) - Longest equal subarray
+- **2842. Count K-Subsequences of a String With Maximum Beauty** (30.0% | Hard) - K-subsequences
+- **2843. Count Symmetric Integers** (83.1% | Easy) - Symmetric integers
+- **2845. Count of Interesting Subarrays** (58.1% | Med.) - Interesting subarrays
+- **2846. Minimum Edge Weight Equilibrium Queries in a Tree** (44.7% | Hard) - Edge weight queries
+- **2848. Points That Intersect With Cars** (73.1% | Easy) - Points intersect
+- **2849. Determine if a Cell Is Reachable at a Given Time** (37.1% | Med.) - Cell reachable
+- **2850. Minimum Moves to Spread Stones Over Grid** (44.9% | Med.) - Spread stones
+- **2851. String Transformation** (26.0% | Hard) - String transformation
+- **2856. Minimum Array Length After Pair Removals** (26.3% | Med.) - Array length after removals
+- **2857. Count Pairs of Points With Distance k** (32.5% | Med.) - Pairs distance k
+- **2858. Minimum Edge Reversals So Every Node Is Reachable** (56.2% | Hard) - Edge reversals
+- **2864. Maximum Odd Binary Number** (82.8% | Easy) - Max odd binary
+- **2865. Beautiful Towers I** (43.9% | Med.) - Beautiful towers I
+- **2870. Minimum Number of Operations to Make Array Empty** (62.0% | Med.) - Make array empty
+- **2872. Maximum Number of K-Divisible Components** (69.5% | Hard) - K-divisible components
+- **2873. Maximum Value of an Ordered Triplet I** (58.2% | Easy) - Max ordered triplet I
+- **2874. Maximum Value of an Ordered Triplet II** (56.5% | Med.) - Max ordered triplet II
+- **2876. Count Visited Nodes in a Directed Graph** (29.9% | Hard) - Visited nodes
+- **2877. Create a DataFrame from List** (81.2% | Easy) - DataFrame from list
+- **2878. Get the Size of a DataFrame** (85.0% | Easy) - DataFrame size
+- **2879. Display the First Three Rows** (93.1% | Easy) - First three rows
+- **2880. Select Data** (78.9% | Easy) - Select data
+- **2882. Drop Duplicate Rows** (85.3% | Easy) - Drop duplicates
+- **2886. Change Data Type** (87.4% | Easy) - Change data type
+- **2887. Fill Missing Data** (72.4% | Easy) - Fill missing
+- **2888. Reshape Data: Concatenate** (90.7% | Easy) - Reshape concatenate
+- **2891. Method Chaining** (76.3% | Easy) - Method chaining
+- **2894. Divisible and Non-divisible Sums Difference** (91.1% | Easy) - Sums difference
+- **2896. Apply Operations to Make Two Strings Equal** (27.5% | Med.) - Make strings equal
+- **2901. Longest Unequal Adjacent Groups Subsequence II** (51.4% | Med.) - Unequal groups
+- **2914. Minimum Number of Changes to Make Binary String Beautiful** (76.4% | Med.) - Beautiful binary
+- **2915. Length of the Longest Subsequence That Sums to Target** (38.8% | Med.) - Subsequence sum target
+- **2918. Minimum Equal Sum of Two Arrays After Replacing Zeros** (50.2% | Med.) - Equal sum arrays
+- **2919. Minimum Increment Operations to Make Array Beautiful** (34.4% | Med.) - Beautiful array
+- **2923. Find Champion I** (72.9% | Easy) - Find champion I
+- **2924. Find Champion II** (70.2% | Med.) - Find champion II
+- **2925. Maximum Score After Applying Operations on a Tree** (46.9% | Med.) - Tree operations
+- **2929. Distribute Candies Among Children II** (55.8% | Med.) - Distribute candies II
+- **2933. High-Access Employees** (47.0% | Med.) - High-access employees
+- **2938. Separate Black and White Balls** (64.0% | Med.) - Separate balls
+- **2939. Maximum Xor Product** (28.8% | Med.) - Max XOR product
+- **2940. Find Building Where Alice and Bob Can Meet** (52.2% | Hard) - Building meet
+- **2942. Find Words Containing Character** (90.4% | Easy) - Words containing
+- **2945. Find Maximum Non-decreasing Array Length** (17.7% | Hard) - Max non-decreasing
+- **2948. Make Lexicographically Smallest Array by Swapping Elements** (60.2% | Med.) - Lexicographically smallest
+- **2951. Find the Peaks** (74.7% | Easy) - Find peaks
+- **2953. Count Complete Substrings** (29.4% | Hard) - Complete substrings
+- **2954. Count the Number of Infection Sequences** (36.0% | Hard) - Infection sequences
+- **2956. Find Common Elements Between Two Arrays** (84.2% | Easy) - Common elements
+- **2958. Length of Longest Subarray With at Most K Frequency** (56.2% | Med.) - Longest subarray K frequency
+- **2959. Number of Possible Sets of Closing Branches** (50.0% | Hard) - Closing branches
+- **2962. Count Subarrays Where Max Element Appears at Least K Times** (62.4% | Med.) - Max appears K times
+- **2963. Count the Number of Good Partitions** (48.3% | Hard) - Good partitions
+- **2965. Find Missing and Repeated Values** (83.3% | Easy) - Missing repeated
+- **2966. Divide Array Into Arrays With Max Difference** (78.9% | Med.) - Divide arrays
+- **2967. Minimum Cost to Make Array Equalindromic** (22.9% | Med.) - Equalindromic
+- **2968. Apply Operations to Maximize Frequency Score** (37.9% | Hard) - Maximize frequency
+- **2973. Find Number of Coins to Place in Tree Nodes** (36.9% | Hard) - Coins in tree
+- **2974. Minimum Number Game** (85.1% | Easy) - Minimum number game
+- **2975. Maximum Square Area by Removing Fences From a Field** (24.7% | Med.) - Max square area
+- **2976. Minimum Cost to Convert String I** (57.4% | Med.) - Convert string I
+- **2977. Minimum Cost to Convert String II** (26.1% | Hard) - Convert string II
+- **2981. Find Longest Special Substring That Occurs Thrice I** (61.9% | Med.) - Special substring I
+- **2982. Find Longest Special Substring That Occurs Thrice II** (38.8% | Med.) - Special substring II
+- **2996. Smallest Missing Integer Greater Than Sequential Prefix Sum** (34.7% | Easy) - Smallest missing
+- **2997. Minimum Number of Operations to Make Array XOR Equal to K** (85.4% | Med.) - Array XOR equal K
+- **2999. Count the Number of Powerful Integers** (46.4% | Hard) - Powerful integers
+- **3000. Maximum Area of Longest Diagonal Rectangle** (45.8% | Easy) - Max area rectangle
+- **3005. Count Elements With Maximum Frequency** (79.9% | Easy) - Max frequency
+- **3006. Find Beautiful Indices in the Given Array I** (40.0% | Med.) - Beautiful indices I
+- **3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K** (37.9% | Med.) - Price sum
+- **3008. Find Beautiful Indices in the Given Array II** (27.2% | Hard) - Beautiful indices II
+- **3011. Find if Array Can Be Sorted** (66.5% | Med.) - Can be sorted
+- **3014. Minimum Number of Pushes to Type Word I** (66.6% | Easy) - Pushes to type I
+- **3016. Minimum Number of Pushes to Type Word II** (79.9% | Med.) - Pushes to type II
+- **3020. Find the Maximum Number of Elements in Subset** (26.6% | Med.) - Max elements subset
+- **3021. Alice and Bob Playing Flower Game** (60.1% | Med.) - Flower game
+- **3024. Type of Triangle** (44.3% | Easy) - Triangle type
+- **3025. Find the Number of Ways to Place People I** (64.1% | Med.) - Ways to place I
+- **3026. Maximum Good Subarray Sum** (20.9% | Med.) - Max good subarray
+- **3027. Find the Number of Ways to Place People II** (64.4% | Hard) - Ways to place II
+- **3028. Ant on the Boundary** (74.1% | Easy) - Ant boundary
+- **3034. Number of Subarrays That Match a Pattern I** (67.9% | Med.) - Subarrays match pattern I
+- **3038. Maximum Number of Operations With the Same Score I** (52.5% | Easy) - Operations same score I
+- **3041. Maximize Consecutive Elements in an Array After Modification** (33.2% | Hard) - Max consecutive
+- **3042. Count Prefix and Suffix Pairs I** (77.7% | Easy) - Prefix suffix pairs I
+- **3043. Find the Length of the Longest Common Prefix** (56.8% | Med.) - Longest common prefix
+- **3044. Most Frequent Prime** (45.5% | Med.) - Most frequent prime
+- **3045. Count Prefix and Suffix Pairs II** (27.7% | Hard) - Prefix suffix pairs II
+- **3046. Split the Array** (60.5% | Easy) - Split array
+- **3047. Find the Largest Area of Square Inside Two Rectangles** (45.7% | Med.) - Largest square
+- **3049. Earliest Second to Mark Indices II** (20.8% | Hard) - Earliest second
+- **3066. Minimum Operations to Exceed Threshold Value II** (45.8% | Med.) - Exceed threshold II
+- **3068. Find the Maximum Sum of Node Values** (69.6% | Hard) - Max sum node values
+- **3071. Minimum Operations to Write the Letter Y on a Grid** (63.4% | Med.) - Write Y
+- **3076. Shortest Uncommon Substring in an Array** (49.5% | Med.) - Shortest uncommon
+- **3082. Find the Sum of the Power of All Subsequences** (37.4% | Hard) - Sum power subsequences
+- **3085. Minimum Deletions to Make String K-Special** (67.2% | Med.) - K-special string
+- **3093. Longest Common Suffix Queries** (35.9% | Hard) - Longest common suffix
+- **3097. Shortest Subarray With OR at Least K II** (50.2% | Med.) - Subarray OR K II
+- **3098. Find the Sum of Subsequence Powers** (24.3% | Hard) - Subsequence powers
+- **3100. Water Bottles II** (78.1% | Med.) - Water bottles II
+- **3101. Count Alternating Subarrays** (57.0% | Med.) - Alternating subarrays
+- **3105. Longest Strictly Increasing or Strictly Decreasing Subarray** (65.0% | Easy) - Longest subarray
+- **3108. Minimum Cost Walk in Weighted Graph** (68.3% | Hard) - Cost walk
+- **3110. Score of a String** (91.5% | Easy) - String score
+- **3113. Find the Number of Subarrays Where Boundary Elements Are Maximum** (32.1% | Hard) - Boundary elements max
+- **3114. Latest Time You Can Obtain After Replacing Characters** (34.8% | Easy) - Latest time
+- **3117. Minimum Sum of Values by Dividing Array** (27.4% | Hard) - Min sum values
+- **3120. Count the Number of Special Characters I** (66.3% | Easy) - Special characters I
+- **3121. Count the Number of Special Characters II** (42.8% | Med.) - Special characters II
+- **3123. Find Edges in Shortest Paths** (46.2% | Hard) - Edges in paths
+- **3128. Right Triangles** (47.9% | Med.) - Right triangles
+- **3132. Find the Integer Added to Array II** (32.5% | Med.) - Integer added II
+- **3133. Minimum Array End** (55.4% | Med.) - Minimum array end
+- **3136. Valid Word** (50.9% | Easy) - Valid word
+- **3137. Minimum Number of Operations to Make Word K-Periodic** (60.3% | Med.) - K-periodic word
+- **3139. Minimum Cost to Equalize Array** (18.1% | Hard) - Equalize array
+- **3146. Permutation Difference between Two Strings** (87.5% | Easy) - Permutation diff
+- **3147. Taking Maximum Energy From the Mystic Dungeon** (60.9% | Med.) - Max energy
+- **3149. Find the Minimum Cost Array Permutation** (24.5% | Hard) - Min cost permutation
+- **3151. Special Array I** (81.6% | Easy) - Special array I
+- **3152. Special Array II** (45.7% | Med.) - Special array II
+- **3153. Sum of Digit Differences of All Pairs** (42.8% | Med.) - Digit differences
+- **3158. Find the XOR of Numbers Which Appear Twice** (78.4% | Easy) - XOR appears twice
+- **3160. Find the Number of Distinct Colors Among the Balls** (54.2% | Med.) - Distinct colors
+- **3161. Block Placement Queries** (18.0% | Hard) - Block placement
+- **3162. Find the Number of Good Pairs I** (86.1% | Easy) - Good pairs I
+- **3163. String Compression III** (66.9% | Med.) - String compression III
+- **3164. Find the Number of Good Pairs II** (26.4% | Med.) - Good pairs II
+- **3165. Maximum Sum of Subsequence With Non-adjacent Elements** (15.1% | Hard) - Max sum non-adjacent
+- **3169. Count Days Without Meetings** (48.0% | Med.) - Days without meetings
+- **3170. Lexicographically Minimum String After Removing Stars** (50.9% | Med.) - Min string after stars
+- **3174. Clear Digits** (82.6% | Easy) - Clear digits
+- **3176. Find the Maximum Length of a Good Subsequence I** (32.2% | Med.) - Good subsequence I
+- **3177. Find the Maximum Length of a Good Subsequence II** (24.6% | Hard) - Good subsequence II
+- **3178. Find the Child Who Has the Ball After K Seconds** (61.8% | Easy) - Child with ball
+- **3184. Count Pairs That Form a Complete Day I** (77.8% | Easy) - Pairs complete day I
+- **3185. Count Pairs That Form a Complete Day II** (43.4% | Med.) - Pairs complete day II
+- **3186. Maximum Total Damage With Spell Casting** (45.0% | Med.) - Max total damage
+- **3190. Find Minimum Operations to Make All Elements Divisible by Three** (89.0% | Easy) - Divisible by three
+- **3191. Minimum Operations to Make Binary Array Elements Equal to One I** (80.5% | Med.) - Binary array one I
+- **3192. Minimum Operations to Make Binary Array Elements Equal to One II** (64.6% | Med.) - Binary array one II
+- **3193. Count the Number of Inversions** (28.9% | Hard) - Count inversions
+- **3194. Minimum Average of Smallest and Largest Elements** (85.1% | Easy) - Min average
+- **3195. Find the Minimum Area to Cover All Ones I** (78.1% | Med.) - Min area cover I
+- **3196. Maximize Total Cost of Alternating Subarrays** (29.3% | Med.) - Max total cost
+- **3197. Find the Minimum Area to Cover All Ones II** (63.7% | Hard) - Min area cover II
+- **3201. Find the Maximum Length of Valid Subsequence I** (54.8% | Med.) - Valid subsequence I
+- **3202. Find the Maximum Length of Valid Subsequence II** (57.3% | Med.) - Valid subsequence II
+- **3203. Find Minimum Diameter After Merging Two Trees** (57.2% | Hard) - Min diameter merge
+- **3206. Alternating Groups I** (68.4% | Easy) - Alternating groups I
+- **3208. Alternating Groups II** (59.8% | Med.) - Alternating groups II
+- **3211. Generate Binary Strings Without Adjacent Zeros** (87.9% | Med.) - Binary strings
+- **3217. Delete Nodes From Linked List Present in Array** (69.7% | Med.) - Delete nodes
+- **3218. Minimum Cost for Cutting Cake I** (58.1% | Med.) - Cutting cake I
+- **3224. Minimum Array Changes to Make Differences Equal** (23.9% | Med.) - Array changes
+- **3227. Vowels Game in a String** (77.0% | Med.) - Vowels game
+- **3228. Maximum Number of Operations to Move Ones to the End** (67.1% | Med.) - Move ones
+- **3229. Minimum Operations to Make Array Equal to Target** (40.9% | Hard) - Array equal target
+- **3233. Find the Count of Numbers Which Are Not Special** (27.3% | Med.) - Not special numbers
+- **3234. Count the Number of Substrings With Dominant Ones** (42.2% | Med.) - Substrings dominant ones
+- **3235. Check if the Rectangle Corner Is Reachable** (25.4% | Hard) - Rectangle corner
+- **3238. Find the Number of Winning Players** (60.2% | Easy) - Winning players
+- **3240. Minimum Number of Flips to Make Binary Grid Palindromic II** (25.2% | Med.) - Binary grid palindromic II
+- **3243. Shortest Distance After Road Addition Queries I** (61.8% | Med.) - Road addition I
+- **3248. Snake in Matrix** (82.1% | Easy) - Snake matrix
+- **3250. Find the Count of Monotonic Pairs I** (47.2% | Hard) - Monotonic pairs I
+- **3254. Find the Power of K-Size Subarrays I** (62.3% | Med.) - Power K-size I
+- **3258. Count Substrings That Satisfy K-Constraint I** (78.5% | Easy) - Substrings K-constraint I
+- **3260. Find the Largest Palindrome Divisible by K** (16.1% | Hard) - Largest palindrome divisible
+- **3264. Final Array State After K Multiplication Operations I** (87.0% | Easy) - Final array state I
+- **3265. Count Almost Equal Pairs I** (37.9% | Med.) - Almost equal pairs I
+- **3266. Final Array State After K Multiplication Operations II** (12.4% | Hard) - Final array state II
+- **3270. Find the Key of the Numbers** (76.3% | Easy) - Key of numbers
+- **3271. Hash Divided String** (83.1% | Med.) - Hash divided
+- **3272. Find the Count of Good Integers** (69.5% | Hard) - Good integers
+- **3274. Check if Two Chessboard Squares Have the Same Color** (72.1% | Easy) - Chessboard color
+- **3275. K-th Nearest Obstacle Queries** (48.6% | Med.) - Nearest obstacle
+- **3277. Maximum XOR Score Subarray Queries** (43.2% | Hard) - Max XOR score
+- **3280. Convert Date to Binary** (88.5% | Easy) - Date to binary
+- **3282. Reach End of Array With Max Score** (33.0% | Med.) - Reach end max score
+- **3283. Maximum Number of Moves to Kill All Pawns** (33.2% | Hard) - Moves kill pawns
+- **3285. Find Indices of Stable Mountains** (86.5% | Easy) - Stable mountains
+- **3286. Find a Safe Walk Through a Grid** (31.9% | Med.) - Safe walk grid
+- **3287. Find the Maximum Sequence Value of Array** (19.9% | Hard) - Max sequence value
+- **3289. The Two Sneaky Numbers of Digitville** (89.9% | Easy) - Two sneaky numbers
+- **3303. Find the Occurrence of First Almost Equal Substring** (14.7% | Hard) - First almost equal
+- **3304. Find the K-th Character in String Game I** (81.7% | Easy) - Kth character I
+- **3307. Find the K-th Character in String Game II** (48.6% | Hard) - Kth character II
+- **3309. Maximum Possible Number by Binary Concatenation** (65.2% | Med.) - Max binary concatenation
+- **3312. Sorted GCD Pair Queries** (20.9% | Hard) - Sorted GCD queries
+- **3316. Find Maximum Removals From Source String** (38.8% | Med.) - Max removals
+- **3318. Find X-Sum of All K-Long Subarrays I** (76.1% | Easy) - X-sum K-long I
+- **3319. K-th Largest Perfect Subtree Size in Binary Tree** (61.6% | Med.) - Perfect subtree
+- **3320. Count The Number of Winning Sequences** (31.7% | Hard) - Winning sequences
+- **3321. Find X-Sum of All K-Long Subarrays II** (40.9% | Hard) - X-sum K-long II
+- **3325. Count Substrings With K-Frequency Characters I** (55.2% | Med.) - K-frequency I
+- **3326. Minimum Division Operations to Make Array Non Decreasing** (28.9% | Med.) - Division operations
+- **3327. Check if DFS Strings Are Palindromes** (18.9% | Hard) - DFS palindromes
+- **3330. Find the Original Typed String I** (72.1% | Easy) - Original typed I
+- **3333. Find the Original Typed String II** (45.7% | Hard) - Original typed II
+- **3335. Total Characters in String After Transformations I** (45.7% | Med.) - Transformations I
+- **3337. Total Characters in String After Transformations II** (58.1% | Hard) - Transformations II
+- **3341. Find Minimum Time to Reach Last Room I** (55.5% | Med.) - Min time room I
+- **3342. Find Minimum Time to Reach Last Room II** (68.1% | Med.) - Min time room II
+- **3343. Count Number of Balanced Permutations** (49.2% | Hard) - Balanced permutations
+- **3346. Maximum Frequency of an Element After Performing Operations I** (40.0% | Med.) - Max frequency I
+- **3347. Maximum Frequency of an Element After Performing Operations II** (54.0% | Hard) - Max frequency II
+- **3349. Adjacent Increasing Subarrays Detection I** (48.1% | Easy) - Adjacent increasing I
+- **3350. Adjacent Increasing Subarrays Detection II** (58.8% | Med.) - Adjacent increasing II
+- **3351. Sum of Good Subsequences** (30.4% | Hard) - Good subsequences
+- **3354. Make Array Elements Equal to Zero** (68.4% | Easy) - Array elements zero
+- **3355. Zero Array Transformation I** (54.4% | Med.) - Zero array I
+- **3356. Zero Array Transformation II** (43.6% | Med.) - Zero array II
+- **3362. Zero Array Transformation III** (54.9% | Med.) - Zero array III
+- **3363. Find the Maximum Number of Fruits Collected** (65.3% | Hard) - Max fruits
+- **3366. Minimum Array Sum** (30.4% | Med.) - Minimum array sum
+- **3370. Smallest Number With All Set Bits** (80.3% | Easy) - Smallest number set bits
+- **3371. Identify the Largest Outlier in an Array** (36.1% | Med.) - Largest outlier
+- **3372. Maximize the Number of Target Nodes After Connecting Trees I** (69.5% | Med.) - Target nodes I
+- **3373. Maximize the Number of Target Nodes After Connecting Trees II** (73.1% | Hard) - Target nodes II
+- **3375. Minimum Operations to Make Array Values Equal to K** (73.3% | Easy) - Array values equal K
+- **3379. Transformed Array** (57.2% | Easy) - Transformed array
+- **3380. Maximum Area Rectangle With Point Constraints I** (50.7% | Med.) - Max area rectangle I
+- **3381. Maximum Subarray Sum With Length Divisible by K** (28.0% | Med.) - Subarray sum divisible
+- **3382. Maximum Area Rectangle With Point Constraints II** (21.6% | Hard) - Max area rectangle II
+- **3387. Maximize Amount After Two Days of Conversions** (60.4% | Med.) - Amount after conversions
+- **3389. Minimum Operations to Make Character Frequencies Equal** (25.8% | Hard) - Character frequencies equal
+- **3392. Count Subarrays of Length Three With a Condition** (61.6% | Easy) - Subarrays length three
+- **3394. Check if Grid can be Cut into Sections** (68.3% | Med.) - Grid cut sections
+- **3396. Minimum Number of Operations to Make Elements in Array Distinct** (71.3% | Easy) - Elements distinct
+- **3397. Maximum Number of Distinct Elements After Operations** (52.1% | Med.) - Distinct elements
+- **3398. Smallest Substring With Identical Characters I** (19.8% | Hard) - Identical characters I
+- **3403. Find the Lexicographically Largest String From the Box I** (40.9% | Med.) - Largest string I
+- **3404. Count Special Subsequences** (29.5% | Med.) - Special subsequences
+- **3405. Count the Number of Arrays with K Matching Adjacent Elements** (58.3% | Hard) - Arrays K matching
+- **3408. Design Task Manager** (49.3% | Med.) - Task manager
+- **3409. Longest Subsequence With Decreasing Adjacent Difference** (15.7% | Med.) - Decreasing adjacent diff
+- **3410. Maximize Subarray Sum After Removing All Occurrences of One Element** (21.4% | Hard) - Max subarray after remove
+- **3411. Maximum Subarray With Equal Products** (46.0% | Easy) - Subarray equal products
+- **3412. Find Mirror Score of a String** (34.8% | Med.) - Mirror score
+- **3413. Maximum Coins From K Consecutive Bags** (23.9% | Med.) - Coins K consecutive
+- **3417. Zigzag Grid Traversal With Skip** (64.4% | Easy) - Zigzag grid
+- **3419. Minimize the Maximum Edge Weight of Graph** (43.4% | Med.) - Min max edge weight
+- **3420. Count Non-Decreasing Subarrays After K Operations** (22.4% | Hard) - Non-decreasing after K
+- **3421. Find Students Who Improved** (47.4% | Med.) - Students improved
+- **3423. Maximum Difference Between Adjacent Elements in a Circular Array** (75.7% | Easy) - Max diff circular
+- **3424. Minimum Cost to Make Arrays Identical** (37.4% | Med.) - Arrays identical
+- **3426. Manhattan Distances of All Arrangements of Pieces** (34.3% | Hard) - Manhattan distances
+- **3428. Maximum and Minimum Sums of at Most Size K Subsequences** (21.0% | Med.) - Max min sums K
+- **3434. Maximum Frequency After Subarray Operation** (30.1% | Med.) - Frequency after operation
+- **3439. Reschedule Meetings for Maximum Free Time I** (53.9% | Med.) - Reschedule meetings I
+- **3440. Reschedule Meetings for Maximum Free Time II** (60.4% | Med.) - Reschedule meetings II
+- **3442. Maximum Difference Between Even and Odd Frequency I** (60.8% | Easy) - Even odd frequency I
+- **3443. Maximum Manhattan Distance After K Changes** (54.1% | Med.) - Manhattan distance K
+- **3445. Maximum Difference Between Even and Odd Frequency II** (48.7% | Hard) - Even odd frequency II
+- **3446. Sort Matrix by Diagonals** (84.7% | Med.) - Sort matrix diagonals
+- **3452. Sum of Good Numbers** (69.3% | Easy) - Good numbers
+- **3453. Separate Squares I** (39.3% | Med.) - Separate squares I
+- **3454. Separate Squares II** (21.1% | Hard) - Separate squares II
+- **3459. Length of Longest V-Shaped Diagonal Segment** (56.6% | Hard) - V-shaped diagonal
+- **3461. Check If Digits Are Equal in String After Operations I** (82.5% | Easy) - Equal digits I
+- **3463. Check If Digits Are Equal in String After Operations II** (13.7% | Hard) - Equal digits II
+- **3468. Find the Number of Copy Arrays** (46.5% | Med.) - Copy arrays
+- **3469. Find Minimum Cost to Remove Array Elements** (20.4% | Med.) - Min cost remove
+- **3472. Longest Palindromic Subsequence After at Most K Operations** (37.1% | Med.) - Palindromic subsequence K
+- **3477. Fruits Into Baskets II** (70.3% | Easy) - Fruits II
+- **3479. Fruits Into Baskets III** (39.0% | Med.) - Fruits III
+- **3480. Maximize Subarrays After Removing One Conflicting Pair** (64.8% | Hard) - Maximize subarrays
+- **3483. Unique 3-Digit Even Numbers** (68.3% | Easy) - Unique 3-digit
+- **3484. Design Spreadsheet** (74.6% | Med.) - Design spreadsheet
+- **3486. Longest Special Path II** (16.7% | Hard) - Longest special path
+- **3487. Zero Array Transformation IV** (30.6% | Med.) - Zero array IV
+- **3489. Zero Array Transformation IV** (30.6% | Med.) - Zero array IV
+- **3492. Maximum Containers on a Ship** (75.0% | Easy) - Max containers
+- **3494. Find the Minimum Amount of Time to Brew Potions** (62.7% | Med.) - Time brew potions
+- **3495. Minimum Operations to Make Array Elements Zero** (60.4% | Hard) - Array elements zero
+- **3503. Longest Palindrome After Substring Concatenation I** (43.4% | Med.) - Palindrome concatenation I
+- **3504. Longest Palindrome After Substring Concatenation II** (16.6% | Hard) - Palindrome concatenation II
+- **3507. Minimum Pair Removal to Sort Array I** (55.6% | Easy) - Pair removal I
+- **3508. Implement Router** (39.4% | Med.) - Implement router
+- **3516. Find Closest Person** (89.0% | Easy) - Find closest person
+- **3523. Make Array Non-decreasing** (56.2% | Med.) - Array non-decreasing
+- **3527. Find the Most Common Response** (75.0% | Med.) - Most common response
+- **3529. Count Cells in Overlapping Horizontal and Vertical Substrings** (26.1% | Med.) - Overlapping cells
+- **3532. Path Existence Queries in a Graph I** (55.0% | Med.) - Path queries I
+- **3533. Concatenated Divisibility** (30.0% | Hard) - Concatenated divisibility
+- **3534. Path Existence Queries in a Graph II** (24.8% | Hard) - Path queries II
+- **3536. Maximum Product of Two Digits** (69.4% | Easy) - Max product two digits
+- **3537. Fill a Special Grid** (70.5% | Med.) - Fill special grid
+- **3538. Merge Operations for Minimum Travel Time** (29.8% | Hard) - Merge operations
+- **3539. Find Sum of Array Product of Magical Sequences** (62.0% | Hard) - Sum array product
+- **3541. Find Most Frequent Vowel and Consonant** (89.7% | Easy) - Most frequent vowel consonant
+- **3542. Minimum Operations to Convert All Elements to Zero** (52.7% | Med.) - Convert all zero
+- **3545. Minimum Deletions for At Most K Distinct Characters** (72.8% | Easy) - Deletions K distinct
+- **3551. Minimum Swaps to Sort by Digit Sum** (50.3% | Med.) - Swaps sort digit sum
+- **3552. Grid Teleportation Traversal** (22.5% | Med.) - Grid teleportation
+- **3561. Resulting String After Adjacent Removals** (56.1% | Med.) - Resulting string
+- **3566. Partition Array into Two Equal Product Subsets** (35.0% | Med.) - Partition equal product
+- **3570. Find Books with No Available Copies** (53.2% | Easy) - Books no copies
+- **3573. Best Time to Buy and Sell Stock V** (41.8% | Med.) - Stock V
+- **3574. Maximize Subarray GCD Score** (23.3% | Hard) - Max subarray GCD
+- **3576. Transform Array to All Equal Elements** (32.8% | Med.) - Transform array equal
+- **3578. Count Partitions With Max-Min Difference at Most K** (37.1% | Med.) - Partitions max-min
+- **3585. Find Weighted Median Node in Tree** (24.8% | Hard) - Weighted median
+- **3588. Find Maximum Area of a Triangle** (28.4% | Med.) - Max area triangle
+- **3589. Count Prime-Gap Balanced Subarrays** (20.6% | Med.) - Prime-gap balanced
+- **3592. Inverse Coin Change** (50.8% | Med.) - Inverse coin change
+- **3593. Minimum Increments to Equalize Leaf Paths** (40.8% | Med.) - Equalize leaf paths
+- **3597. Partition String** (58.1% | Med.) - Partition string
+- **3607. Power Grid Maintenance** (56.9% | Med.) - Power grid maintenance
+- **3613. Minimize Maximum Component Cost** (43.1% | Med.) - Min max component
+- **3619. Count Islands With Total Value Divisible by K** (56.3% | Med.) - Islands divisible K
+- **3623. Count Number of Trapezoids I** (32.8% | Med.) - Trapezoids I
+- **3625. Count Number of Trapezoids II** (13.3% | Hard) - Trapezoids II
+- **3630. Partition Array for Maximum XOR and AND** (13.2% | Hard) - Partition max XOR AND
+- **3636. Threshold Majority Queries** (20.7% | Hard) - Threshold majority
+- **3645. Maximum Total from Optimal Activation Order** (32.5% | Med.) - Max total activation
+- **3646. Next Special Palindrome Number** (25.0% | Hard) - Next special palindrome
+- **3648. Minimum Sensors to Cover Grid** (68.6% | Med.) - Min sensors
+- **3650. Minimum Cost Path with Edge Reversals** (46.8% | Med.) - Cost path reversals
+- **3652. Best Time to Buy and Sell Stock using Strategy** (46.7% | Med.) - Stock strategy
+- **3659. Partition Array Into K-Distinct Groups** (43.4% | Med.) - Partition K-distinct
+- **3665. Twisted Mirror Path Count** (47.8% | Med.) - Twisted mirror
+- **3669. Balanced K-Factor Decomposition** (34.4% | Med.) - Balanced K-factor
+- **3671. Sum of Beautiful Subsequences** (21.2% | Hard) - Beautiful subsequences
+- **3676. Count Bowl Subarrays** (43.8% | Med.) - Bowl subarrays
+- **3686. Number of Stable Subsequences** (55.7% | Hard) - Stable subsequences
+- **3688. Bitwise OR of Even Numbers in an Array** (81.6% | Easy) - Bitwise OR even
+
+---
+
+**Total Problems**: 200+  
+**Last Updated**: 2025-01-27
+
