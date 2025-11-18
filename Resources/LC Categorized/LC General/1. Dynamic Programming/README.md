@@ -1,0 +1,548 @@
+# Dynamic Programming Problems
+
+## 1. Basic/1D DP
+
+- 70. Climbing Stairs (53.8% Easy)
+- 338. Counting Bits (80.2% Easy)
+- 509. Fibonacci Number (73.6% Easy)
+- 746. Min Cost Climbing Stairs (67.7% Easy)
+- 1137. N-th Tribonacci Number (63.4% Easy)
+- 1025. Divisor Game (71.1% Easy)
+- 118. Pascal's Triangle (78.3% Easy)
+- 119. Pascal's Triangle II (66.7% Easy)
+- 343. Integer Break (61.6% Med.)
+- 357. Count Numbers with Unique Digits (55.0% Med.)
+- 397. Integer Replacement (37.0% Med.)
+- 650. 2 Keys Keyboard (59.2% Med.)
+- 788. Rotated Digits (56.6% Med.)
+- 790. Domino and Tromino Tiling (51.6% Med.)
+- 808. Soup Servings (59.8% Med.)
+- 1227. Airplane Seat Assignment Probability (67.0% Med.)
+- 1387. Sort Integers by The Power Value (71.2% Med.)
+- 2571. Minimum Operations to Reduce an Integer to 0 (59.8% Med.)
+- 2572. Count the Number of Square-Free Subsets (25.9% Med.)
+- 2787. Ways to Express an Integer as Sum of Powers (49.9% Med.)
+- 3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K (37.9% Med.)
+- 3366. Minimum Array Sum (30.4% Med.)
+
+## 2. 2D DP / Matrix DP
+
+- 64. Minimum Path Sum (67.4% Med.)
+- 85. Maximal Rectangle (55.3% Hard)
+- 221. Maximal Square (49.6% Med.)
+- 329. Longest Increasing Path in a Matrix (56.0% Hard)
+- 542. 01 Matrix (52.7% Med.)
+- 764. Largest Plus Sign (48.8% Med.)
+- 799. Champagne Tower (58.5% Med.)
+- 931. Minimum Falling Path Sum (60.8% Med.)
+- 1139. Largest 1-Bordered Square (51.7% Med.)
+- 1277. Count Square Submatrices with All Ones (80.6% Med.)
+- 1289. Minimum Falling Path Sum II (63.4% Hard)
+- 1504. Count Submatrices With All Ones (71.0% Med.)
+- 1594. Maximum Non Negative Product in a Matrix (35.4% Med.)
+- 1937. Maximum Number of Points with Cost (41.9% Med.)
+- 2088. Count Fertile Pyramids in a Land (66.2% Hard)
+- 2304. Minimum Path Cost in a Grid (67.7% Med.)
+- 2435. Paths in Matrix Whose Sum Is Divisible by K (44.8% Hard)
+- 2713. Maximum Strictly Increasing Cells in a Matrix (31.1% Hard)
+- 2684. Maximum Number of Moves in a Grid (58.8% Med.)
+- 2556. Disconnect Path in a Binary Matrix by at Most One Flip (27.7% Med.)
+- 3459. Length of Longest V-Shaped Diagonal Segment (56.6% Hard)
+
+## 3. String DP
+
+### 3.1 String Matching / Pattern Matching
+- 10. Regular Expression Matching (30.0% Hard)
+- 44. Wildcard Matching (30.9% Hard)
+- 72. Edit Distance (59.7% Med.)
+- 87. Scramble String (43.3% Hard)
+- 97. Interleaving String (43.0% Med.)
+- 115. Distinct Subsequences (51.0% Hard)
+- 139. Word Break (48.8% Med.)
+- 140. Word Break II (54.6% Hard)
+- 392. Is Subsequence (48.7% Easy)
+- 583. Delete Operation for Two Strings (64.8% Med.)
+- 792. Number of Matching Subsequences (50.6% Med.)
+- 1092. Shortest Common Supersequence (61.6% Hard)
+- 1143. Longest Common Subsequence (58.6% Med.)
+- 1035. Uncrossed Lines (64.8% Med.)
+- 1639. Number of Ways to Form a Target String Given a Dictionary (56.7% Hard)
+- 2060. Check if an Original String Exists Given Two Encoded Strings (43.4% Hard)
+- 2707. Extra Characters in a String (57.2% Med.)
+- 2851. String Transformation (26.0% Hard)
+- 3316. Find Maximum Removals From Source String (38.8% Med.)
+- 3333. Find the Original Typed String II (45.7% Hard)
+- 3335. Total Characters in String After Transformations I (45.7% Med.)
+- 3337. Total Characters in String After Transformations II (58.1% Hard)
+- 3503. Longest Palindrome After Substring Concatenation I (43.4% Med.)
+- 3504. Longest Palindrome After Substring Concatenation II (16.6% Hard)
+
+### 3.2 Palindrome Problems
+- 5. Longest Palindromic Substring (36.8% Med.)
+- 131. Palindrome Partitioning (73.2% Med.)
+- 132. Palindrome Partitioning II (36.1% Hard)
+- 516. Longest Palindromic Subsequence (64.8% Med.)
+- 647. Palindromic Substrings (72.3% Med.)
+- 730. Count Different Palindromic Subsequences (47.2% Hard)
+- 1147. Longest Chunked Palindrome Decomposition (59.0% Hard)
+- 1312. Minimum Insertion Steps to Make a String Palindrome (73.3% Hard)
+- 2002. Maximum Product of the Length of Two Palindromic Subsequences (62.1% Med.)
+- 2472. Maximum Number of Non-overlapping Palindrome Substrings (42.6% Hard)
+- 2484. Count Palindromic Subsequences (40.4% Hard)
+- 2767. Partition String Into Minimum Beautiful Substrings (53.5% Med.)
+- 3472. Longest Palindromic Subsequence After at Most K Operations (37.1% Med.)
+
+### 3.3 String Decoding / Encoding
+- 91. Decode Ways (37.2% Med.)
+- 639. Decode Ways II (31.5% Hard)
+- 1416. Restore The Array (46.8% Hard)
+
+### 3.4 Other String DP
+- 467. Unique Substrings in Wraparound String (42.2% Med.)
+- 940. Distinct Subsequences II (43.9% Hard)
+- 1525. Number of Good Ways to Split a String (68.4% Med.)
+- 1653. Minimum Deletions to Make String Balanced (65.6% Med.)
+- 1987. Number of Unique Good Subsequences (52.5% Hard)
+- 2262. Total Appeal of A String (56.1% Hard)
+- 2267. Check if There Is a Valid Parentheses String Path (39.8% Hard)
+- 2311. Longest Binary Subsequence Less Than or Equal to K (52.9% Med.)
+- 2370. Longest Ideal Subsequence (46.7% Med.)
+- 2380. Time Needed to Rearrange a Binary String (52.1% Med.)
+- 2901. Longest Unequal Adjacent Groups Subsequence II (51.4% Med.)
+- 3193. Count the Number of Inversions (28.9% Hard)
+- 3201. Find the Maximum Length of Valid Subsequence I (54.9% Med.)
+- 3202. Find the Maximum Length of Valid Subsequence II (57.3% Med.)
+- 3686. Number of Stable Subsequences (55.8% Hard)
+
+## 4. Tree DP
+
+- 95. Unique Binary Search Trees II (61.4% Med.)
+- 96. Unique Binary Search Trees (63.0% Med.)
+- 124. Binary Tree Maximum Path Sum (41.8% Hard)
+- 337. House Robber III (55.3% Med.)
+- 968. Binary Tree Cameras (47.5% Hard)
+- 1372. Longest ZigZag Path in a Binary Tree (66.9% Med.)
+- 1373. Maximum Sum BST in Binary Tree (45.7% Hard)
+- 1483. Kth Ancestor of a Tree Node (36.6% Hard)
+- 1569. Number of Ways to Reorder Array to Get Same BST (53.8% Hard)
+- 2581. Count Number of Possible Root Nodes (47.5% Hard)
+- 2791. Count Paths That Can Form a Palindrome in a Tree (46.7% Hard)
+- 2858. Minimum Edge Reversals So Every Node Is Reachable (56.2% Hard)
+- 2925. Maximum Score After Applying Operations on a Tree (46.9% Med.)
+- 2973. Find Number of Coins to Place in Tree Nodes (36.9% Hard)
+- 3068. Find the Maximum Sum of Node Values (69.6% Hard)
+- 3585. Find Weighted Median Node in Tree (24.7% Hard)
+- 834. Sum of Distances in Tree (65.5% Hard)
+
+## 5. Interval DP
+
+- 312. Burst Balloons (62.5% Hard)
+- 375. Guess Number Higher or Lower II (52.0% Med.)
+- 546. Remove Boxes (49.0% Hard)
+- 664. Strange Printer (60.8% Hard)
+- 1000. Minimum Cost to Merge Stones (45.2% Hard)
+- 1039. Minimum Score Triangulation of Polygon (67.3% Med.)
+- 1130. Minimum Cost Tree From Leaf Values (67.7% Med.)
+- 1547. Minimum Cost to Cut a Stick (62.6% Hard)
+- 1563. Stone Game V (41.5% Hard)
+- 1690. Stone Game VII (58.6% Med.)
+- 3218. Minimum Cost for Cutting Cake I (58.1% Med.)
+
+## 6. State DP / Multi-State DP
+
+- 552. Student Attendance Record II (56.2% Hard)
+- 935. Knight Dialer (61.6% Med.)
+- 801. Minimum Swaps To Make Sequences Increasing (41.1% Hard)
+- 847. Shortest Path Visiting All Nodes (65.7% Hard)
+- 1340. Jump Game V (64.5% Hard)
+- 1349. Maximum Students Taking Exam (53.0% Hard)
+- 1824. Minimum Sideway Jumps (51.3% Med.)
+- 1883. Minimum Skips to Arrive at Meeting On Time (38.5% Hard)
+- 1896. Minimum Cost to Change the Final Value of Expression (51.2% Hard)
+- 1931. Painting a Grid With Three Different Colors (77.9% Hard)
+- 1976. Number of Ways to Arrive at Destination (37.2% Med.)
+- 1320. Minimum Distance to Type a Word Using Two Fingers (59.3% Hard)
+- 1900. The Earliest and Latest Rounds Where Players Compete (73.2% Hard)
+- 2035. Partition Array Into Two Arrays to Minimize Sum Difference (22.6% Hard)
+- 3149. Find the Minimum Cost Array Permutation (24.5% Hard)
+
+## 7. Game Theory DP
+
+- 464. Can I Win (30.8% Med.)
+- 486. Predict the Winner (56.0% Med.)
+- 877. Stone Game (72.3% Med.)
+- 913. Cat and Mouse (34.2% Hard)
+- 1140. Stone Game II (72.9% Med.)
+- 1406. Stone Game III (63.2% Hard)
+- 1728. Cat and Mouse II (40.1% Hard)
+- 2945. Find Maximum Non-decreasing Array Length (17.8% Hard)
+
+## 8. Stock Problems (Buy/Sell Stock)
+
+- 121. Best Time to Buy and Sell Stock (56.0% Easy)
+- 122. Best Time to Buy and Sell Stock II (70.3% Med.)
+- 123. Best Time to Buy and Sell Stock III (52.6% Hard)
+- 188. Best Time to Buy and Sell Stock IV (48.8% Hard)
+- 309. Best Time to Buy and Sell Stock with Cooldown (61.3% Med.)
+- 714. Best Time to Buy and Sell Stock with Transaction Fee (71.3% Med.)
+- 3573. Best Time to Buy and Sell Stock V (41.8% Med.)
+
+## 9. Path Problems
+
+- 62. Unique Paths (66.3% Med.)
+- 63. Unique Paths II (43.8% Med.)
+- 64. Minimum Path Sum (67.4% Med.)
+- 741. Cherry Pickup (38.7% Hard)
+- 1463. Cherry Pickup II (72.2% Hard)
+- 1537. Get the Maximum Score (40.5% Hard)
+- 1976. Number of Ways to Arrive at Destination (37.2% Med.)
+- 2304. Minimum Path Cost in a Grid (67.7% Med.)
+- 2435. Paths in Matrix Whose Sum Is Divisible by K (44.8% Hard)
+- 3534. Path Existence Queries in a Graph II (24.8% Hard)
+
+## 10. Subsequence/Subarray DP
+
+### 10.1 Longest Increasing Subsequence (LIS)
+- 300. Longest Increasing Subsequence (58.7% Med.)
+- 354. Russian Doll Envelopes (37.6% Hard)
+- 368. Largest Divisible Subset (49.2% Med.)
+- 376. Wiggle Subsequence (49.1% Med.)
+- 673. Number of Longest Increasing Subsequence (50.9% Med.)
+- 873. Length of Longest Fibonacci Subsequence (57.6% Med.)
+- 1027. Longest Arithmetic Subsequence (49.7% Med.)
+- 1218. Longest Arithmetic Subsequence of Given Difference (54.3% Med.)
+- 2407. Longest Increasing Subsequence II (25.8% Hard)
+- 2501. Longest Square Streak in an Array (53.1% Med.)
+- 2771. Longest Non-decreasing Subarray From Two Arrays (30.7% Med.)
+- 3409. Longest Subsequence With Decreasing Adjacent Difference (15.7% Med.)
+- 3738. Longest Non-Decreasing Subarray After Replacing at Most One Element (19.7% Med.)
+
+### 10.2 Maximum Subarray
+- 53. Maximum Subarray (52.6% Med.)
+- 1186. Maximum Subarray Sum with One Deletion (45.8% Med.)
+- 152. Maximum Product Subarray (35.6% Med.)
+- 918. Maximum Sum Circular Subarray (48.7% Med.)
+- 1749. Maximum Absolute Sum of Any Subarray (71.4% Med.)
+- 1911. Maximum Alternating Subsequence Sum (58.9% Med.)
+- 3410. Maximize Subarray Sum After Removing All Occurrences of One Element (21.4% Hard)
+
+### 10.3 Other Subsequence/Subarray
+- 32. Longest Valid Parentheses (37.4% Hard)
+- 45. Jump Game II (42.1% Med.)
+- 55. Jump Game (40.1% Med.)
+- 1524. Number of Sub-arrays With Odd Sum (55.9% Med.)
+- 1567. Maximum Length of Subarray With Positive Product (44.6% Med.)
+- 1493. Longest Subarray of 1's After Deleting One Element (70.9% Med.)
+- 1696. Jump Game VI (46.2% Med.)
+- 1871. Jump Game VII (26.1% Med.)
+- 2915. Length of the Longest Subsequence That Sums to Target (38.8% Med.)
+- 3176. Find the Maximum Length of a Good Subsequence I (32.2% Med.)
+- 3177. Find the Maximum Length of a Good Subsequence II (24.6% Hard)
+- 3196. Maximize Total Cost of Alternating Subarrays (29.3% Med.)
+- 3363. Find the Maximum Number of Fruits Collected (65.3% Hard)
+- 3428. Maximum and Minimum Sums of at Most Size K Subsequences (21.0% Med.)
+- 3685. Subsequence Sum After Capping Elements (19.0% Med.)
+
+## 11. Partition DP
+
+- 132. Palindrome Partitioning II (36.1% Hard)
+- 416. Partition Equal Subset Sum (49.0% Med.)
+- 698. Partition to K Equal Sum Subsets (38.3% Med.)
+- 813. Largest Sum of Averages (54.6% Med.)
+- 1043. Partition Array for Maximum Sum (77.2% Med.)
+- 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum (36.7% Med.)
+- 2035. Partition Array Into Two Arrays to Minimize Sum Difference (22.6% Hard)
+- 2522. Partition String Into Substrings With Values at Most K (47.3% Med.)
+- 2767. Partition String Into Minimum Beautiful Substrings (53.5% Med.)
+- 3578. Count Partitions With Max-Min Difference at Most K (37.1% Med.)
+
+## 12. Bitmask DP
+
+- 464. Can I Win (30.8% Med.)
+- 691. Stickers to Spell Word (50.4% Hard)
+- 847. Shortest Path Visiting All Nodes (65.7% Hard)
+- 1125. Smallest Sufficient Team (55.3% Hard)
+- 1349. Maximum Students Taking Exam (53.0% Hard)
+- 1947. Maximum Compatibility Score Sum (64.0% Med.)
+- 2172. Maximum AND Sum of Array (50.4% Hard)
+- 1994. The Number of Good Subsets (36.6% Hard)
+- 1655. Distribute Repeating Integers (40.1% Hard)
+- 1815. Maximum Number of Groups Getting Fresh Donuts (41.1% Hard)
+- 1723. Find Minimum Time to Finish All Jobs (44.7% Hard)
+
+## 13. Digit DP
+
+- 233. Number of Digit One (36.9% Hard)
+- 600. Non-negative Integers without Consecutive Ones (41.1% Hard)
+- 1012. Numbers With Repeated Digits (44.7% Hard)
+- 2370. Longest Ideal Subsequence (46.7% Med.)
+- 2999. Count the Number of Powerful Integers (46.4% Hard)
+- 3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K (37.9% Med.)
+- 3260. Find the Largest Palindrome Divisible by K (16.1% Hard)
+- 3533. Concatenated Divisibility (30.0% Hard)
+
+## 14. Probability DP
+
+- 688. Knight Probability in Chessboard (56.8% Med.)
+- 808. Soup Servings (59.8% Med.)
+- 837. New 21 Game (52.0% Med.)
+- 1227. Airplane Seat Assignment Probability (67.0% Med.)
+
+## 15. Parentheses DP
+
+- 22. Generate Parentheses (77.9% Med.)
+- 32. Longest Valid Parentheses (37.4% Hard)
+- 678. Valid Parenthesis String (39.5% Med.)
+- 241. Different Ways to Add Parentheses (72.8% Med.)
+- 2267. Check if There Is a Valid Parentheses String Path (39.8% Hard)
+
+## 16. Knapsack / Coin Change
+
+- 322. Coin Change (47.5% Med.)
+- 377. Combination Sum IV (54.8% Med.)
+- 416. Partition Equal Subset Sum (49.0% Med.)
+- 474. Ones and Zeroes (52.8% Med.)
+- 494. Target Sum (51.5% Med.)
+- 518. Coin Change II (60.9% Med.)
+- 638. Shopping Offers (52.1% Med.)
+- 1049. Last Stone Weight II (58.7% Med.)
+- 1449. Form Largest Integer With Digits That Add up to Target (49.2% Hard)
+- 3592. Inverse Coin Change (50.8% Med.)
+- 2915. Length of the Longest Subsequence That Sums to Target (38.8% Med.)
+
+## 17. House Robber Series
+
+- 198. House Robber (52.7% Med.)
+- 213. House Robber II (44.3% Med.)
+- 337. House Robber III (55.3% Med.)
+- 2560. House Robber IV (64.9% Med.)
+
+## 18. Jump Game Series
+
+- 45. Jump Game II (42.1% Med.)
+- 55. Jump Game (40.1% Med.)
+- 1306. Jump Game III (Not in list but related)
+- 1340. Jump Game V (64.5% Hard)
+- 1696. Jump Game VI (46.2% Med.)
+- 1871. Jump Game VII (26.1% Med.)
+
+## 19. Range/Query DP
+
+- 1031. Maximum Sum of Two Non-Overlapping Subarrays (60.6% Med.)
+- 689. Maximum Sum of 3 Non-Overlapping Subarrays (59.6% Hard)
+- 907. Sum of Subarray Minimums (38.1% Med.)
+- 898. Bitwise ORs of Subarrays (56.6% Med.)
+- 3277. Maximum XOR Score Subarray Queries (43.2% Hard)
+
+## 20. Optimization DP
+
+- 42. Trapping Rain Water (66.2% Hard)
+- 174. Dungeon Game (40.4% Hard)
+- 279. Perfect Squares (56.1% Med.)
+- 313. Super Ugly Number (45.7% Med.)
+- 264. Ugly Number II (49.4% Med.)
+- 435. Non-overlapping Intervals (56.3% Med.)
+- 646. Maximum Length of Pair Chain (61.3% Med.)
+- 1024. Video Stitching (52.4% Med.)
+- 1105. Filling Bookcase Shelves (68.7% Med.)
+- 1235. Maximum Profit in Job Scheduling (54.5% Hard)
+- 1326. Minimum Number of Taps to Open to Water a Garden (50.8% Hard)
+- 1335. Minimum Difficulty of a Job Schedule (59.7% Hard)
+- 1402. Reducing Dishes (76.5% Hard)
+- 1478. Allocate Mailboxes (56.1% Hard)
+- 1751. Maximum Number of Events That Can Be Attended II (63.7% Hard)
+- 2008. Maximum Earnings From Taxi (45.9% Med.)
+- 2054. Two Best Non-Overlapping Events (60.8% Med.)
+- 2140. Solving Questions With Brainpower (60.2% Med.)
+- 2188. Minimum Time to Finish the Race (42.8% Hard)
+- 2209. Minimum White Tiles After Covering With Carpets (38.1% Hard)
+- 2463. Minimum Total Distance Traveled (58.9% Hard)
+- 2597. The Number of Beautiful Subsets (50.9% Med.)
+- 2616. Minimize the Maximum Difference of Pairs (50.9% Med.)
+- 2645. Minimum Additions to Make Valid String (50.7% Med.)
+- 2742. Painting the Walls (48.7% Hard)
+- 2850. Minimum Moves to Spread Stones Over Grid (44.9% Med.)
+- 2919. Minimum Increment Operations to Make Array Beautiful (34.4% Med.)
+- 3229. Minimum Operations to Make Array Equal to Target (40.9% Hard)
+- 3192. Minimum Operations to Make Binary Array Elements Equal to One II (64.6% Med.)
+- 3389. Minimum Operations to Make Character Frequencies Equal (25.8% Hard)
+- 3469. Find Minimum Cost to Remove Array Elements (20.6% Med.)
+- 3489. Zero Array Transformation IV (30.6% Med.)
+- 3538. Merge Operations for Minimum Travel Time (29.8% Hard)
+- 3593. Minimum Increments to Equalize Leaf Paths (40.8% Med.)
+
+## 21. Counting DP
+
+- 62. Unique Paths (66.3% Med.)
+- 63. Unique Paths II (43.8% Med.)
+- 91. Decode Ways (37.2% Med.)
+- 96. Unique Binary Search Trees (63.0% Med.)
+- 115. Distinct Subsequences (51.0% Hard)
+- 118. Pascal's Triangle (78.3% Easy)
+- 119. Pascal's Triangle II (66.7% Easy)
+- 338. Counting Bits (80.2% Easy)
+- 357. Count Numbers with Unique Digits (55.0% Med.)
+- 413. Arithmetic Slices (64.8% Med.)
+- 446. Arithmetic Slices II - Subsequence (54.8% Hard)
+- 467. Unique Substrings in Wraparound String (42.2% Med.)
+- 526. Beautiful Arrangement (64.7% Med.)
+- 629. K Inverse Pairs Array (49.0% Hard)
+- 647. Palindromic Substrings (72.3% Med.)
+- 730. Count Different Palindromic Subsequences (47.2% Hard)
+- 792. Number of Matching Subsequences (50.6% Med.)
+- 940. Distinct Subsequences II (43.9% Hard)
+- 1155. Number of Dice Rolls With Target Sum (62.0% Med.)
+- 1269. Number of Ways to Stay in the Same Place After Some Steps (50.0% Hard)
+- 1359. Count All Valid Pickup and Delivery Options (64.9% Hard)
+- 1395. Count Number of Teams (70.1% Med.)
+- 1397. Find All Good Strings (44.6% Hard)
+- 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons (66.2% Hard)
+- 1524. Number of Sub-arrays With Odd Sum (55.9% Med.)
+- 1639. Number of Ways to Form a Target String Given a Dictionary (56.7% Hard)
+- 1866. Number of Ways to Rearrange Sticks With K Sticks Visible (58.6% Hard)
+- 1987. Number of Unique Good Subsequences (52.5% Hard)
+- 1994. The Number of Good Subsets (36.6% Hard)
+- 2163. Minimum Difference in Sums After Removal of Elements (69.9% Hard)
+- 2327. Number of People Aware of a Secret (61.0% Med.)
+- 2338. Count the Number of Ideal Arrays (57.0% Hard)
+- 2369. Check if There is a Valid Partition For The Array (52.1% Med.)
+- 2466. Count Ways To Build Good Strings (59.0% Med.)
+- 2484. Count Palindromic Subsequences (40.4% Hard)
+- 2750. Ways to Split Array Into Good Subarrays (34.5% Med.)
+- 2876. Count Visited Nodes in a Directed Graph (29.9% Hard)
+- 2999. Count the Number of Powerful Integers (46.4% Hard)
+- 3082. Find the Sum of the Power of All Subsequences (37.4% Hard)
+- 3098. Find the Sum of Subsequence Powers (24.3% Hard)
+- 3193. Count the Number of Inversions (28.9% Hard)
+- 3343. Count Number of Balanced Permutations (49.2% Hard)
+- 3351. Sum of Good Subsequences (30.4% Hard)
+- 3320. Count The Number of Winning Sequences (31.7% Hard)
+- 3539. Find Sum of Array Product of Magical Sequences (62.0% Hard)
+- 3686. Number of Stable Subsequences (55.8% Hard)
+
+## 22. Graph DP
+
+- 787. Cheapest Flights Within K Stops (41.0% Med.)
+- 834. Sum of Distances in Tree (65.5% Hard)
+- 847. Shortest Path Visiting All Nodes (65.7% Hard)
+- 871. Minimum Number of Refueling Stops (40.9% Hard)
+- 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance (71.5% Med.)
+- 1786. Number of Restricted Paths From First to Last Node (40.6% Med.)
+- 1857. Largest Color Value in a Directed Graph (57.4% Hard)
+- 1976. Number of Ways to Arrive at Destination (37.2% Med.)
+- 2050. Parallel Courses III (66.8% Hard)
+- 3534. Path Existence Queries in a Graph II (24.8% Hard)
+- 2876. Count Visited Nodes in a Directed Graph (29.9% Hard)
+
+## 23. Specialized DP
+
+### 23.1 Egg Drop
+- 887. Super Egg Drop (29.5% Hard)
+- 1884. Egg Drop With 2 Eggs and N Floors (74.3% Med.)
+
+### 23.2 Sliding Window / Monotonic Queue DP
+- 1425. Constrained Subsequence Sum (56.4% Hard)
+- 1696. Jump Game VI (46.2% Med.)
+
+### 23.3 DP with Binary Search
+- 410. Split Array Largest Sum (59.3% Hard)
+- 1751. Maximum Number of Events That Can Be Attended II (63.7% Hard)
+
+### 23.4 DP with Math
+- 233. Number of Digit One (36.9% Hard)
+- 458. Poor Pigs (59.1% Hard)
+- 1611. Minimum One Bit Operations to Make Integers Zero (78.5% Hard)
+
+### 23.5 DP with Greedy
+- 1024. Video Stitching (52.4% Med.)
+- 1326. Minimum Number of Taps to Open to Water a Garden (50.8% Hard)
+
+### 23.6 DP with Segment Tree / BIT
+- 2407. Longest Increasing Subsequence II (25.8% Hard)
+
+### 23.7 DP with Trie
+- 1639. Number of Ways to Form a Target String Given a Dictionary (56.7% Hard)
+
+### 23.8 DP with Rolling Hash
+- 1147. Longest Chunked Palindrome Decomposition (59.0% Hard)
+
+## 24. Advanced DP Problems
+
+- 773. Sliding Puzzle (73.4% Hard)
+- 805. Split Array With Same Average (26.5% Hard)
+- 818. Race Car (44.5% Hard)
+- 823. Binary Trees With Factors (53.0% Med.)
+- 845. Longest Mountain in Array (41.4% Med.)
+- 894. All Possible Full Binary Trees (82.7% Med.)
+- 920. Number of Music Playlists (60.0% Hard)
+- 926. Flip String to Monotone Increasing (61.7% Med.)
+- 960. Delete Columns to Make Sorted III (59.4% Hard)
+- 975. Odd Even Jump (41.0% Hard)
+- 983. Minimum Cost For Tickets (67.4% Med.)
+- 996. Number of Squareful Arrays (50.9% Hard)
+- 1014. Best Sightseeing Pair (62.6% Med.)
+- 1048. Longest String Chain (62.6% Med.)
+- 1255. Maximum Score Words Formed by Letters (81.6% Hard)
+- 1444. Number of Ways of Cutting a Pizza (61.6% Hard)
+- 1494. Parallel Courses II (30.1% Hard)
+- 1553. Minimum Number of Days to Eat N Oranges (35.9% Hard)
+- 1578. Minimum Time to Make Rope Colorful (65.3% Med.)
+- 1595. Minimum Cost to Connect Two Groups of Points (49.2% Hard)
+- 1671. Minimum Number of Removals to Make Mountain Array (54.8% Hard)
+- 1691. Maximum Height by Stacking Cuboids (61.2% Hard)
+- 1755. Closest Subsequence Sum (42.6% Hard)
+- 1770. Maximum Score from Performing Multiplication Operations (42.8% Hard)
+- 1774. Closest Dessert Cost (48.2% Med.)
+- 1787. Make the XOR of All Segments Equal to Zero (40.5% Hard)
+- 1888. Minimum Number of Flips to Make the Binary String Alternating (40.8% Med.)
+- 2100. Find Good Days to Rob the Bank (50.9% Med.)
+- 2167. Minimum Time to Remove All Cars Containing Illegal Goods (41.8% Hard)
+- 2218. Maximum Value of K Coins From Piles (60.4% Hard)
+- 2291. Maximum Profit From Trading Stocks (Not in list)
+- 2478. Number of Beautiful Partitions (32.5% Hard)
+- 2518. Number of Great Partitions (Not in list)
+- 3041. Maximize Consecutive Elements in an Array After Modification (33.2% Hard)
+- 3117. Minimum Sum of Values by Dividing Array (27.4% Hard)
+- 3165. Maximum Sum of Subsequence With Non-adjacent Elements (15.1% Hard)
+- 3186. Maximum Total Damage With Spell Casting (45.0% Med.)
+- 3250. Find the Count of Monotonic Pairs I (47.2% Hard)
+- 3287. Find the Maximum Sequence Value of Array (20.0% Hard)
+- 3434. Maximum Frequency After Subarray Operation (30.1% Med.)
+- 3665. Twisted Mirror Path Count (47.9% Med.)
+
+## 25. DP on Arrays / Sequences
+
+- 120. Triangle (59.8% Med.)
+- 152. Maximum Product Subarray (35.6% Med.)
+- 198. House Robber (52.7% Med.)
+- 213. House Robber II (44.3% Med.)
+- 300. Longest Increasing Subsequence (58.7% Med.)
+- 413. Arithmetic Slices (64.8% Med.)
+- 446. Arithmetic Slices II - Subsequence (54.8% Hard)
+- 673. Number of Longest Increasing Subsequence (50.9% Med.)
+- 740. Delete and Earn (57.0% Med.)
+- 845. Longest Mountain in Array (41.4% Med.)
+- 1186. Maximum Subarray Sum with One Deletion (45.8% Med.)
+- 1218. Longest Arithmetic Subsequence of Given Difference (54.3% Med.)
+- 1395. Count Number of Teams (70.1% Med.)
+- 1493. Longest Subarray of 1's After Deleting One Element (70.9% Med.)
+- 1524. Number of Sub-arrays With Odd Sum (55.9% Med.)
+- 1567. Maximum Length of Subarray With Positive Product (44.6% Med.)
+- 1749. Maximum Absolute Sum of Any Subarray (71.4% Med.)
+- 1911. Maximum Alternating Subsequence Sum (58.9% Med.)
+- 2100. Find Good Days to Rob the Bank (50.9% Med.)
+- 2369. Check if There is a Valid Partition For The Array (52.1% Med.)
+- 2501. Longest Square Streak in an Array (53.1% Med.)
+- 2771. Longest Non-decreasing Subarray From Two Arrays (30.7% Med.)
+- 3041. Maximize Consecutive Elements in an Array After Modification (33.2% Hard)
+- 3410. Maximize Subarray Sum After Removing All Occurrences of One Element (21.4% Hard)
+- 3428. Maximum and Minimum Sums of at Most Size K Subsequences (21.0% Med.)
+- 3434. Maximum Frequency After Subarray Operation (30.1% Med.)
+- 3738. Longest Non-Decreasing Subarray After Replacing at Most One Element (19.7% Med.)
+
+---
+
+**Total Problems: 400+**
+
+*Note: Some problems may appear in multiple categories as they involve multiple DP concepts.*
+
